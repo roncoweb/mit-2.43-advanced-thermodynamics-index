@@ -79,9 +79,6 @@ You can deep dive into this topic on **[Slide 01.14](https://ocw.mit.edu/courses
 ### [Definition of Weight Process](https://www.youtube.com/watch?v=unTWUTwum1s#t=3301s)
 You can deep dive into this topic on **[Slide 01.15](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec01.pdf#page=15&view=fitV)** or watch the video at **[Timestamp 55:01](https://www.youtube.com/watch?v=unTWUTwum1s#t=3301s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
-### [](https://www.youtube.com/watch?v=unTWUTwum1s#t=3481s)
-You can deep dive into this topic on **[Slide 01.16](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec01.pdf#page=16&view=fitV)** or watch the video at **[Timestamp 58:01](https://www.youtube.com/watch?v=unTWUTwum1s#t=3481s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
 ### [Statement of the First Law of Thermodynamics](https://www.youtube.com/watch?v=unTWUTwum1s#t=3961s)
 You can deep dive into this topic on **[Slide 01.17](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec01.pdf#page=17&view=fitV)** or watch the video at **[Timestamp 66:01](https://www.youtube.com/watch?v=unTWUTwum1s#t=3961s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
@@ -97,9 +94,6 @@ You can deep dive into this topic on **[Slide 01.20](https://ocw.mit.edu/courses
 ### [Consequences of the First Law: Energy Balance Equation](https://www.youtube.com/watch?v=unTWUTwum1s#t=4811s)
 You can deep dive into this topic on **[Slide 01.21](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec01.pdf#page=21&view=fitV)** or watch the video at **[Timestamp 80:11](https://www.youtube.com/watch?v=unTWUTwum1s#t=4811s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
-### [](https://www.youtube.com/watch?v=unTWUTwum1s#t=5041s)
-You can deep dive into this topic on **[Slide 01.22](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec01.pdf#page=22&view=fitV)** or watch the video at **[Timestamp 84:01](https://www.youtube.com/watch?v=unTWUTwum1s#t=5041s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
 ### [States Can Be Steady/Unsteady or Equilibrium/Nonequilibrium](https://www.youtube.com/watch?v=unTWUTwum1s#t=5051s)
 You can deep dive into this topic on **[Slide 01.23](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec01.pdf#page=23&view=fitV)** or watch the video at **[Timestamp 84:11](https://www.youtube.com/watch?v=unTWUTwum1s#t=5051s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
@@ -114,9 +108,6 @@ You can deep dive into this topic on **[Slide 02.01](https://ocw.mit.edu/courses
 
 ### [Quick Review: Course Objectives: Part I](https://www.youtube.com/watch?v=NKi3EuS5foY#t=22s)
 You can deep dive into this topic on **[Slide 02.02](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec02.pdf#page=02&view=fitV)** or watch the video at **[Timestamp 0:22](https://www.youtube.com/watch?v=NKi3EuS5foY#t=22s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=NKi3EuS5foY#t=41s)
-You can deep dive into this topic on **[Slide 02.03](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec02.pdf#page=03&view=fitV)** or watch the video at **[Timestamp 0:41](https://www.youtube.com/watch?v=NKi3EuS5foY#t=41s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
 ### [Quick Review: The Loaded Meaning of the Word System](https://www.youtube.com/watch?v=NKi3EuS5foY#t=42s)
 You can deep dive into this topic on **[Slide 02.04](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec02.pdf#page=04&view=fitV)** or watch the video at **[Timestamp 0:42](https://www.youtube.com/watch?v=NKi3EuS5foY#t=42s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
@@ -136,17 +127,11 @@ You can deep dive into this topic on **[Slide 02.08](https://ocw.mit.edu/courses
 ### [Quick Review: Definition of Weight Process](https://www.youtube.com/watch?v=NKi3EuS5foY#t=260s)
 You can deep dive into this topic on **[Slide 02.09](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec02.pdf#page=09&view=fitV)** or watch the video at **[Timestamp 4:20](https://www.youtube.com/watch?v=NKi3EuS5foY#t=260s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
-### [](https://www.youtube.com/watch?v=NKi3EuS5foY#t=279s)
-You can deep dive into this topic on **[Slide 02.10](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec02.pdf#page=10&view=fitV)** or watch the video at **[Timestamp 4:39](https://www.youtube.com/watch?v=NKi3EuS5foY#t=279s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
 ### [Quick Review: Main Consequence of the First Law: Definition of Property Energy](https://www.youtube.com/watch?v=NKi3EuS5foY#t=280s)
 You can deep dive into this topic on **[Slide 02.11](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec02.pdf#page=11&view=fitV)** or watch the video at **[Timestamp 4:40](https://www.youtube.com/watch?v=NKi3EuS5foY#t=280s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
 ### [Quick Review: Consequences of the First Law: Energy Balance Equation](https://www.youtube.com/watch?v=NKi3EuS5foY#t=354s)
 You can deep dive into this topic on **[Slide 02.12](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec02.pdf#page=12&view=fitV)** or watch the video at **[Timestamp 5:54](https://www.youtube.com/watch?v=NKi3EuS5foY#t=354s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=NKi3EuS5foY#t=420s)
-You can deep dive into this topic on **[Slide 02.13](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec02.pdf#page=13&view=fitV)** or watch the video at **[Timestamp 7:00](https://www.youtube.com/watch?v=NKi3EuS5foY#t=420s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
 ### [Quick Review: States Can Be Steady/Unsteady or Equilibrium/Nonequilibrium](https://www.youtube.com/watch?v=NKi3EuS5foY#t=421s)
 You can deep dive into this topic on **[Slide 02.14](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec02.pdf#page=14&view=fitV)** or watch the video at **[Timestamp 7:01](https://www.youtube.com/watch?v=NKi3EuS5foY#t=421s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
@@ -181,26 +166,14 @@ You can deep dive into this topic on **[Slide 02.23](https://ocw.mit.edu/courses
 ### [Theorem: Criterion for the Reversibility of a Weight Process](https://www.youtube.com/watch?v=NKi3EuS5foY#t=1825s)
 You can deep dive into this topic on **[Slide 02.24](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec02.pdf#page=24&view=fitV)** or watch the video at **[Timestamp 30:25](https://www.youtube.com/watch?v=NKi3EuS5foY#t=1825s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
-### [](https://www.youtube.com/watch?v=NKi3EuS5foY#t=2062s)
-You can deep dive into this topic on **[Slide 02.25](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec02.pdf#page=25&view=fitV)** or watch the video at **[Timestamp 34:22](https://www.youtube.com/watch?v=NKi3EuS5foY#t=2062s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
 ### [Mutual Equilibrium and Definition of Thermal Reservoir](https://www.youtube.com/watch?v=NKi3EuS5foY#t=2063s)
 You can deep dive into this topic on **[Slide 02.26](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec02.pdf#page=26&view=fitV)** or watch the video at **[Timestamp 34:23](https://www.youtube.com/watch?v=NKi3EuS5foY#t=2063s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=NKi3EuS5foY#t=2354s)
-You can deep dive into this topic on **[Slide 02.27](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec02.pdf#page=27&view=fitV)** or watch the video at **[Timestamp 39:14](https://www.youtube.com/watch?v=NKi3EuS5foY#t=2354s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
 ### [Feasibility for Arbitrary States of the Following Reversible Weight Process](https://www.youtube.com/watch?v=NKi3EuS5foY#t=2465s)
 You can deep dive into this topic on **[Slide 02.28](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec02.pdf#page=28&view=fitV)** or watch the video at **[Timestamp 41:05](https://www.youtube.com/watch?v=NKi3EuS5foY#t=2465s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
 ### [Measurement Procedure Defining the “Constant Temperature of a Thermal Reservoir”](https://www.youtube.com/watch?v=NKi3EuS5foY#t=2850s)
 You can deep dive into this topic on **[Slide 02.29](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec02.pdf#page=29&view=fitV)** or watch the video at **[Timestamp 47:30](https://www.youtube.com/watch?v=NKi3EuS5foY#t=2850s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=NKi3EuS5foY#t=3098s)
-You can deep dive into this topic on **[Slide 02.30](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec02.pdf#page=30&view=fitV)** or watch the video at **[Timestamp 51:38](https://www.youtube.com/watch?v=NKi3EuS5foY#t=3098s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=NKi3EuS5foY#t=3212s)
-You can deep dive into this topic on **[Slide 02.31](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec02.pdf#page=31&view=fitV)** or watch the video at **[Timestamp 53:32](https://www.youtube.com/watch?v=NKi3EuS5foY#t=3212s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
 ### [Definition of Property Entropy](https://www.youtube.com/watch?v=NKi3EuS5foY#t=3289s)
 You can deep dive into this topic on **[Slide 02.32](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec02.pdf#page=32&view=fitV)** or watch the video at **[Timestamp 54:49](https://www.youtube.com/watch?v=NKi3EuS5foY#t=3289s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
@@ -267,9 +240,6 @@ You can deep dive into this topic on **[Slide 03.10](https://ocw.mit.edu/courses
 
 ### [Quick Review: Stable Equilibrium State Principle and Fundamental Relation for the Stable Equilibrium States](https://www.youtube.com/watch?v=lf5XeIy21ns#t=1210s)
 You can deep dive into this topic on **[Slide 03.11](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec03.pdf#page=11&view=fitV)** or watch the video at **[Timestamp 20:10](https://www.youtube.com/watch?v=lf5XeIy21ns#t=1210s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=lf5XeIy21ns#t=1409s)
-You can deep dive into this topic on **[Slide 03.12](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec03.pdf#page=12&view=fitV)** or watch the video at **[Timestamp 23:29](https://www.youtube.com/watch?v=lf5XeIy21ns#t=1409s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
 ### [Quick Review: Partial Derivatives of the Fundamental Relation; Gibbs Relation](https://www.youtube.com/watch?v=lf5XeIy21ns#t=1415s)
 You can deep dive into this topic on **[Slide 03.13](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec03.pdf#page=13&view=fitV)** or watch the video at **[Timestamp 23:35](https://www.youtube.com/watch?v=lf5XeIy21ns#t=1415s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
@@ -340,20 +310,8 @@ You can deep dive into this topic on **[Slide 04.08](https://ocw.mit.edu/courses
 ### [Proof of Temperature and Pressure Equality at Mutual Equilibrium](https://www.youtube.com/watch?v=eQe0zaJRwgM#t=1042s)
 You can deep dive into this topic on **[Slide 04.09](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec04.pdf#page=09&view=fitV)** or watch the video at **[Timestamp 17:22](https://www.youtube.com/watch?v=eQe0zaJRwgM#t=1042s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
-### [](https://www.youtube.com/watch?v=eQe0zaJRwgM#t=1826s)
-You can deep dive into this topic on **[Slide 04.10](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec04.pdf#page=10&view=fitV)** or watch the video at **[Timestamp 30:26](https://www.youtube.com/watch?v=eQe0zaJRwgM#t=1826s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=eQe0zaJRwgM#t=1943s)
-You can deep dive into this topic on **[Slide 04.11](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec04.pdf#page=11&view=fitV)** or watch the video at **[Timestamp 32:23](https://www.youtube.com/watch?v=eQe0zaJRwgM#t=1943s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
 ### [Proof of Temperature and Potential Equality at Mutual Equilibrium](https://www.youtube.com/watch?v=eQe0zaJRwgM#t=2024s)
 You can deep dive into this topic on **[Slide 04.12](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec04.pdf#page=12&view=fitV)** or watch the video at **[Timestamp 33:44](https://www.youtube.com/watch?v=eQe0zaJRwgM#t=2024s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=eQe0zaJRwgM#t=2176s)
-You can deep dive into this topic on **[Slide 04.13](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec04.pdf#page=13&view=fitV)** or watch the video at **[Timestamp 36:16](https://www.youtube.com/watch?v=eQe0zaJRwgM#t=2176s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=eQe0zaJRwgM#t=2177s)
-You can deep dive into this topic on **[Slide 04.14](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec04.pdf#page=14&view=fitV)** or watch the video at **[Timestamp 36:17](https://www.youtube.com/watch?v=eQe0zaJRwgM#t=2177s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
 ### [Concavity of the Fundamental Relation](https://www.youtube.com/watch?v=eQe0zaJRwgM#t=2212s)
 You can deep dive into this topic on **[Slide 04.15](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec04.pdf#page=15&view=fitV)** or watch the video at **[Timestamp 36:52](https://www.youtube.com/watch?v=eQe0zaJRwgM#t=2212s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
@@ -361,23 +319,11 @@ You can deep dive into this topic on **[Slide 04.15](https://ocw.mit.edu/courses
 ### [Surface Tension and Young-Laplace Equation](https://www.youtube.com/watch?v=eQe0zaJRwgM#t=2300s)
 You can deep dive into this topic on **[Slide 04.16](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec04.pdf#page=16&view=fitV)** or watch the video at **[Timestamp 38:20](https://www.youtube.com/watch?v=eQe0zaJRwgM#t=2300s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
-### [](https://www.youtube.com/watch?v=eQe0zaJRwgM#t=2779s)
-You can deep dive into this topic on **[Slide 04.17](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec04.pdf#page=17&view=fitV)** or watch the video at **[Timestamp 46:19](https://www.youtube.com/watch?v=eQe0zaJRwgM#t=2779s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=eQe0zaJRwgM#t=3058s)
-You can deep dive into this topic on **[Slide 04.18](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec04.pdf#page=18&view=fitV)** or watch the video at **[Timestamp 50:58](https://www.youtube.com/watch?v=eQe0zaJRwgM#t=3058s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=eQe0zaJRwgM#t=3277s)
-You can deep dive into this topic on **[Slide 04.19](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec04.pdf#page=19&view=fitV)** or watch the video at **[Timestamp 54:37](https://www.youtube.com/watch?v=eQe0zaJRwgM#t=3277s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
 ### [Principal Radii of Curvature](https://www.youtube.com/watch?v=eQe0zaJRwgM#t=3307s)
 You can deep dive into this topic on **[Slide 04.20](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec04.pdf#page=20&view=fitV)** or watch the video at **[Timestamp 55:07](https://www.youtube.com/watch?v=eQe0zaJRwgM#t=3307s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
 ### [Principal Radii of Curvature and Area-to-Volume Change upon Surface Displacement](https://www.youtube.com/watch?v=eQe0zaJRwgM#t=3449s)
 You can deep dive into this topic on **[Slide 04.21](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec04.pdf#page=21&view=fitV)** or watch the video at **[Timestamp 57:29](https://www.youtube.com/watch?v=eQe0zaJRwgM#t=3449s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=eQe0zaJRwgM#t=3559s)
-You can deep dive into this topic on **[Slide 04.22](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec04.pdf#page=22&view=fitV)** or watch the video at **[Timestamp 59:19](https://www.youtube.com/watch?v=eQe0zaJRwgM#t=3559s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
 ### [Nonwork Interactions](https://www.youtube.com/watch?v=eQe0zaJRwgM#t=3797s)
 You can deep dive into this topic on **[Slide 04.23](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec04.pdf#page=23&view=fitV)** or watch the video at **[Timestamp 63:17](https://www.youtube.com/watch?v=eQe0zaJRwgM#t=3797s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
@@ -385,23 +331,11 @@ You can deep dive into this topic on **[Slide 04.23](https://ocw.mit.edu/courses
 ### [Proof of Clausius Statement of the Second Law](https://www.youtube.com/watch?v=eQe0zaJRwgM#t=3815s)
 You can deep dive into this topic on **[Slide 04.24](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec04.pdf#page=24&view=fitV)** or watch the video at **[Timestamp 63:35](https://www.youtube.com/watch?v=eQe0zaJRwgM#t=3815s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
-### [](https://www.youtube.com/watch?v=eQe0zaJRwgM#t=3948s)
-You can deep dive into this topic on **[Slide 04.25](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec04.pdf#page=25&view=fitV)** or watch the video at **[Timestamp 65:48](https://www.youtube.com/watch?v=eQe0zaJRwgM#t=3948s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=eQe0zaJRwgM#t=4365s)
-You can deep dive into this topic on **[Slide 04.26](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec04.pdf#page=26&view=fitV)** or watch the video at **[Timestamp 72:45](https://www.youtube.com/watch?v=eQe0zaJRwgM#t=4365s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=eQe0zaJRwgM#t=4562s)
-You can deep dive into this topic on **[Slide 04.27](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec04.pdf#page=27&view=fitV)** or watch the video at **[Timestamp 76:02](https://www.youtube.com/watch?v=eQe0zaJRwgM#t=4562s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
 ### [Graphical Proof of Clausius Inequality (Infinitesimal Transfers)](https://www.youtube.com/watch?v=eQe0zaJRwgM#t=5277s)
 You can deep dive into this topic on **[Slide 04.28](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec04.pdf#page=28&view=fitV)** or watch the video at **[Timestamp 87:57](https://www.youtube.com/watch?v=eQe0zaJRwgM#t=5277s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
 ### [Graphical Proof of a More Precise Clausius Inequality Valid for Finite Transfers of Energy and Entropy](https://www.youtube.com/watch?v=eQe0zaJRwgM#t=5337s)
 You can deep dive into this topic on **[Slide 04.29](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec04.pdf#page=29&view=fitV)** or watch the video at **[Timestamp 88:57](https://www.youtube.com/watch?v=eQe0zaJRwgM#t=5337s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=eQe0zaJRwgM#t=5496s)
-You can deep dive into this topic on **[Slide 04.30](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec04.pdf#page=30&view=fitV)** or watch the video at **[Timestamp 91:36](https://www.youtube.com/watch?v=eQe0zaJRwgM#t=5496s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
 ### [**Lecture 05: Definition of Heat Interaction; First and Second Law Efficiencies**](https://www.youtube.com/watch?v=Vn--WpmhFS4#t=9s)
 You can deep dive into this topic on **[Slide 05.01](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec05.pdf#page=01&view=fitV)** or watch the video at **[Timestamp 0:09](https://www.youtube.com/watch?v=Vn--WpmhFS4#t=9s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
@@ -426,12 +360,6 @@ You can deep dive into this topic on **[Slide 05.07](https://ocw.mit.edu/courses
 
 ### [Heat Interactions: Steady State Heat Transfer Requires Non-Equilibrium](https://www.youtube.com/watch?v=Vn--WpmhFS4#t=1096s)
 You can deep dive into this topic on **[Slide 05.08](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec05.pdf#page=08&view=fitV)** or watch the video at **[Timestamp 18:16](https://www.youtube.com/watch?v=Vn--WpmhFS4#t=1096s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=Vn--WpmhFS4#t=1491s)
-You can deep dive into this topic on **[Slide 05.09](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec05.pdf#page=09&view=fitV)** or watch the video at **[Timestamp 24:51](https://www.youtube.com/watch?v=Vn--WpmhFS4#t=1491s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=Vn--WpmhFS4#t=1796s)
-You can deep dive into this topic on **[Slide 05.10](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec05.pdf#page=10&view=fitV)** or watch the video at **[Timestamp 29:56](https://www.youtube.com/watch?v=Vn--WpmhFS4#t=1796s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
 ### [Energy and Entropy Exchanges Between Two Reservoirs: Clausius Inequalities Impose Irreversibilities in at Least One of Them](https://www.youtube.com/watch?v=Vn--WpmhFS4#t=1799s)
 You can deep dive into this topic on **[Slide 05.11](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec05.pdf#page=11&view=fitV)** or watch the video at **[Timestamp 29:59](https://www.youtube.com/watch?v=Vn--WpmhFS4#t=1799s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
@@ -487,9 +415,6 @@ You can deep dive into this topic on **[Slide 05.27](https://ocw.mit.edu/courses
 ### [Construction of the Fundamental Relation from Measurements of $T$, $p$, $\alpha_p$, $\kappa_T$, $C_P$, and $\mu_i$'s (Through $p_{ii}$'s)](https://www.youtube.com/watch?v=Vn--WpmhFS4#t=5208s)
 You can deep dive into this topic on **[Slide 05.28](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec05.pdf#page=28&view=fitV)** or watch the video at **[Timestamp 86:48](https://www.youtube.com/watch?v=Vn--WpmhFS4#t=5208s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
-### [](https://www.youtube.com/watch?v=Vn--WpmhFS4#t=5352s)
-You can deep dive into this topic on **[Slide 05.29](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec05.pdf#page=29&view=fitV)** or watch the video at **[Timestamp 89:12](https://www.youtube.com/watch?v=Vn--WpmhFS4#t=5352s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
 ### [Changing Variables of the Fundamental Relation by Means Legendre Transform](https://www.youtube.com/watch?v=Vn--WpmhFS4#t=5389s)
 You can deep dive into this topic on **[Slide 05.30](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec05.pdf#page=30&view=fitV)** or watch the video at **[Timestamp 89:49](https://www.youtube.com/watch?v=Vn--WpmhFS4#t=5389s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
@@ -526,9 +451,6 @@ You can deep dive into this topic on **[Slide 06.10](https://ocw.mit.edu/courses
 ### [Quick Review: Construction of the Fundamental Relation from Measurements of $T$, $p$, $\alpha_p$, $\kappa_T$, $C_P$, and $\mu_i$'s (Through $p_{ii}$'s)](https://www.youtube.com/watch?v=K7gCCLUBSA8#t=1459s)
 You can deep dive into this topic on **[Slide 06.11](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec06.pdf#page=11&view=fitV)** or watch the video at **[Timestamp 24:19](https://www.youtube.com/watch?v=K7gCCLUBSA8#t=1459s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
-### [](https://www.youtube.com/watch?v=K7gCCLUBSA8#t=1828s)
-You can deep dive into this topic on **[Slide 06.12](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec06.pdf#page=12&view=fitV)** or watch the video at **[Timestamp 30:28](https://www.youtube.com/watch?v=K7gCCLUBSA8#t=1828s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
 ### [Changing Variables of the Fundamental Relation by Means of Legendre Transform](https://www.youtube.com/watch?v=K7gCCLUBSA8#t=1830s)
 You can deep dive into this topic on **[Slide 06.13](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec06.pdf#page=13&view=fitV)** or watch the video at **[Timestamp 30:30](https://www.youtube.com/watch?v=K7gCCLUBSA8#t=1830s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
@@ -553,17 +475,8 @@ You can deep dive into this topic on **[Slide 06.19](https://ocw.mit.edu/courses
 ### [Available Energy with respect to a Thermal Reservoir with Fixed Volume and Amounts](https://www.youtube.com/watch?v=K7gCCLUBSA8#t=4136s)
 You can deep dive into this topic on **[Slide 06.20](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec06.pdf#page=20&view=fitV)** or watch the video at **[Timestamp 68:56](https://www.youtube.com/watch?v=K7gCCLUBSA8#t=4136s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
-### [](https://www.youtube.com/watch?v=K7gCCLUBSA8#t=4638s)
-You can deep dive into this topic on **[Slide 06.21](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec06.pdf#page=21&view=fitV)** or watch the video at **[Timestamp 77:18](https://www.youtube.com/watch?v=K7gCCLUBSA8#t=4638s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
 ### [Stability Conditions Deriving from the Available Energy with respect to a Thermal Reservoir with Fixed Volume and Amounts](https://www.youtube.com/watch?v=K7gCCLUBSA8#t=4819s)
 You can deep dive into this topic on **[Slide 06.22](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec06.pdf#page=22&view=fitV)** or watch the video at **[Timestamp 80:19](https://www.youtube.com/watch?v=K7gCCLUBSA8#t=4819s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=K7gCCLUBSA8#t=5144s)
-You can deep dive into this topic on **[Slide 06.23](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec06.pdf#page=23&view=fitV)** or watch the video at **[Timestamp 85:44](https://www.youtube.com/watch?v=K7gCCLUBSA8#t=5144s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=K7gCCLUBSA8#t=5206s)
-You can deep dive into this topic on **[Slide 06.24](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec06.pdf#page=24&view=fitV)** or watch the video at **[Timestamp 86:46](https://www.youtube.com/watch?v=K7gCCLUBSA8#t=5206s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
 ### [Stability Conditions and LeChatelier-Braun Principle (Part I)](https://www.youtube.com/watch?v=K7gCCLUBSA8#t=5424s)
 You can deep dive into this topic on **[Slide 06.25](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec06.pdf#page=25&view=fitV)** or watch the video at **[Timestamp 90:24](https://www.youtube.com/watch?v=K7gCCLUBSA8#t=5424s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
@@ -586,12 +499,6 @@ You can deep dive into this topic on **[Slide 07.05](https://ocw.mit.edu/courses
 ### [Jacobian Determinants](https://www.youtube.com/watch?v=qTGGSVjEBUw#t=190s)
 You can deep dive into this topic on **[Slide 07.06](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec07.pdf#page=06&view=fitV)** or watch the video at **[Timestamp 3:10](https://www.youtube.com/watch?v=qTGGSVjEBUw#t=190s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
-### [](https://www.youtube.com/watch?v=qTGGSVjEBUw#t=458s)
-You can deep dive into this topic on **[Slide 07.07](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec07.pdf#page=07&view=fitV)** or watch the video at **[Timestamp 7:38](https://www.youtube.com/watch?v=qTGGSVjEBUw#t=458s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=qTGGSVjEBUw#t=767s)
-You can deep dive into this topic on **[Slide 07.08](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec07.pdf#page=08&view=fitV)** or watch the video at **[Timestamp 12:47](https://www.youtube.com/watch?v=qTGGSVjEBUw#t=767s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
 ### [Cyclic Relation](https://www.youtube.com/watch?v=qTGGSVjEBUw#t=1077s)
 You can deep dive into this topic on **[Slide 07.09](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec07.pdf#page=09&view=fitV)** or watch the video at **[Timestamp 17:57](https://www.youtube.com/watch?v=qTGGSVjEBUw#t=1077s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
@@ -604,14 +511,8 @@ You can deep dive into this topic on **[Slide 07.11](https://ocw.mit.edu/courses
 ### [Quick Review: Available Energy with respect to a Thermal Reservoir with Fixed Volume and Amounts](https://www.youtube.com/watch?v=qTGGSVjEBUw#t=1809s)
 You can deep dive into this topic on **[Slide 07.12](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec07.pdf#page=12&view=fitV)** or watch the video at **[Timestamp 30:09](https://www.youtube.com/watch?v=qTGGSVjEBUw#t=1809s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
-### [](https://www.youtube.com/watch?v=qTGGSVjEBUw#t=2283s)
-You can deep dive into this topic on **[Slide 07.13](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec07.pdf#page=13&view=fitV)** or watch the video at **[Timestamp 38:03](https://www.youtube.com/watch?v=qTGGSVjEBUw#t=2283s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
 ### [Quick Review: Stability Conditions Deriving from the Available Energy with respect to a Thermal Reservoir with Fixed Volume and Amounts](https://www.youtube.com/watch?v=qTGGSVjEBUw#t=2339s)
 You can deep dive into this topic on **[Slide 07.14](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec07.pdf#page=14&view=fitV)** or watch the video at **[Timestamp 38:59](https://www.youtube.com/watch?v=qTGGSVjEBUw#t=2339s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=qTGGSVjEBUw#t=2359s)
-You can deep dive into this topic on **[Slide 07.15](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec07.pdf#page=15&view=fitV)** or watch the video at **[Timestamp 39:19](https://www.youtube.com/watch?v=qTGGSVjEBUw#t=2359s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
 ### [Quick Review: Stability Conditions and LeChatelier-Braun Principle](https://www.youtube.com/watch?v=qTGGSVjEBUw#t=2397s)
 You can deep dive into this topic on **[Slide 07.16](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec07.pdf#page=16&view=fitV)** or watch the video at **[Timestamp 39:57](https://www.youtube.com/watch?v=qTGGSVjEBUw#t=2397s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
@@ -634,9 +535,6 @@ You can deep dive into this topic on **[Slide 07.21](https://ocw.mit.edu/courses
 ### [Stability Conditions Deriving from the Available Energy with respect to Changes in Volume and Amounts](https://www.youtube.com/watch?v=qTGGSVjEBUw#t=4526s)
 You can deep dive into this topic on **[Slide 07.22](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec07.pdf#page=22&view=fitV)** or watch the video at **[Timestamp 75:26](https://www.youtube.com/watch?v=qTGGSVjEBUw#t=4526s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
-### [](https://www.youtube.com/watch?v=qTGGSVjEBUw#t=4568s)
-You can deep dive into this topic on **[Slide 07.23](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec07.pdf#page=23&view=fitV)** or watch the video at **[Timestamp 76:08](https://www.youtube.com/watch?v=qTGGSVjEBUw#t=4568s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
 ### [Stability Conditions Deriving from the Available Energy with respect to Changes in the Amounts at Fixed Temperature and Pressure](https://www.youtube.com/watch?v=qTGGSVjEBUw#t=4591s)
 You can deep dive into this topic on **[Slide 07.24](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec07.pdf#page=24&view=fitV)** or watch the video at **[Timestamp 76:31](https://www.youtube.com/watch?v=qTGGSVjEBUw#t=4591s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
@@ -649,12 +547,6 @@ You can deep dive into this topic on **[Slide 07.26](https://ocw.mit.edu/courses
 ### [Stability Conditions and LeChatelier-Braun Principle (More General Statement)](https://www.youtube.com/watch?v=qTGGSVjEBUw#t=4792s)
 You can deep dive into this topic on **[Slide 07.27](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec07.pdf#page=27&view=fitV)** or watch the video at **[Timestamp 79:52](https://www.youtube.com/watch?v=qTGGSVjEBUw#t=4792s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
-### [](https://www.youtube.com/watch?v=qTGGSVjEBUw#t=5374s)
-You can deep dive into this topic on **[Slide 07.28](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec07.pdf#page=28&view=fitV)** or watch the video at **[Timestamp 89:34](https://www.youtube.com/watch?v=qTGGSVjEBUw#t=5374s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=qTGGSVjEBUw#t=5569s)
-You can deep dive into this topic on **[Slide 07.29](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec07.pdf#page=29&view=fitV)** or watch the video at **[Timestamp 92:49](https://www.youtube.com/watch?v=qTGGSVjEBUw#t=5569s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
 ### [Stability Conditions and LeChatelier-Braun Principle (Example: Air Springs)](https://www.youtube.com/watch?v=qTGGSVjEBUw#t=5875s)
 You can deep dive into this topic on **[Slide 07.30](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec07.pdf#page=30&view=fitV)** or watch the video at **[Timestamp 97:55](https://www.youtube.com/watch?v=qTGGSVjEBUw#t=5875s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
@@ -664,35 +556,11 @@ You can deep dive into this topic on **[Slide 08.01](https://ocw.mit.edu/courses
 ### [Quick Review: Stability Conditions and LeChatelier-Braun Principle (General Statement)](https://www.youtube.com/watch?v=DAI8bMHITno#t=25s)
 You can deep dive into this topic on **[Slide 08.02](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec08.pdf#page=02&view=fitV)** or watch the video at **[Timestamp 0:25](https://www.youtube.com/watch?v=DAI8bMHITno#t=25s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
-### [](https://www.youtube.com/watch?v=DAI8bMHITno#t=29s)
-You can deep dive into this topic on **[Slide 08.03](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec08.pdf#page=03&view=fitV)** or watch the video at **[Timestamp 0:29](https://www.youtube.com/watch?v=DAI8bMHITno#t=29s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=DAI8bMHITno#t=89s)
-You can deep dive into this topic on **[Slide 08.04](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec08.pdf#page=04&view=fitV)** or watch the video at **[Timestamp 1:29](https://www.youtube.com/watch?v=DAI8bMHITno#t=89s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=DAI8bMHITno#t=92s)
-You can deep dive into this topic on **[Slide 08.05](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec08.pdf#page=05&view=fitV)** or watch the video at **[Timestamp 1:32](https://www.youtube.com/watch?v=DAI8bMHITno#t=92s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=DAI8bMHITno#t=219s)
-You can deep dive into this topic on **[Slide 08.06](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec08.pdf#page=06&view=fitV)** or watch the video at **[Timestamp 3:39](https://www.youtube.com/watch?v=DAI8bMHITno#t=219s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
 ### [Large versus Small Systems: Introducing the “Simple-System Model” (Macroscipic Limit) (Many-Particle Limit)](https://www.youtube.com/watch?v=DAI8bMHITno#t=338s)
 You can deep dive into this topic on **[Slide 08.07](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec08.pdf#page=07&view=fitV)** or watch the video at **[Timestamp 5:38](https://www.youtube.com/watch?v=DAI8bMHITno#t=338s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
 ### [Microscopic \& Mesoscopic vs Macroscopic: Rarefaction Effects Near Walls at Stable Equilibrium](https://www.youtube.com/watch?v=DAI8bMHITno#t=369s)
 You can deep dive into this topic on **[Slide 08.08](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec08.pdf#page=08&view=fitV)** or watch the video at **[Timestamp 6:09](https://www.youtube.com/watch?v=DAI8bMHITno#t=369s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=DAI8bMHITno#t=657s)
-You can deep dive into this topic on **[Slide 08.09](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec08.pdf#page=09&view=fitV)** or watch the video at **[Timestamp 10:57](https://www.youtube.com/watch?v=DAI8bMHITno#t=657s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=DAI8bMHITno#t=801s)
-You can deep dive into this topic on **[Slide 08.10](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec08.pdf#page=10&view=fitV)** or watch the video at **[Timestamp 13:21](https://www.youtube.com/watch?v=DAI8bMHITno#t=801s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=DAI8bMHITno#t=872s)
-You can deep dive into this topic on **[Slide 08.11](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec08.pdf#page=11&view=fitV)** or watch the video at **[Timestamp 14:32](https://www.youtube.com/watch?v=DAI8bMHITno#t=872s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=DAI8bMHITno#t=1240s)
-You can deep dive into this topic on **[Slide 08.12](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec08.pdf#page=12&view=fitV)** or watch the video at **[Timestamp 20:40](https://www.youtube.com/watch?v=DAI8bMHITno#t=1240s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
 ### [Simple-System Model Assumes Negligible Effect of Inserting and Removing Partitions](https://www.youtube.com/watch?v=DAI8bMHITno#t=1618s)
 You can deep dive into this topic on **[Slide 08.13](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec08.pdf#page=13&view=fitV)** or watch the video at **[Timestamp 26:58](https://www.youtube.com/watch?v=DAI8bMHITno#t=1618s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
@@ -712,29 +580,14 @@ You can deep dive into this topic on **[Slide 08.17](https://ocw.mit.edu/courses
 ### [Simple-System Model: Bulk-Flow Local-Equilibrium State Model](https://www.youtube.com/watch?v=DAI8bMHITno#t=2851s)
 You can deep dive into this topic on **[Slide 08.18](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec08.pdf#page=18&view=fitV)** or watch the video at **[Timestamp 47:31](https://www.youtube.com/watch?v=DAI8bMHITno#t=2851s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
-### [](https://www.youtube.com/watch?v=DAI8bMHITno#t=3111s)
-You can deep dive into this topic on **[Slide 08.19](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec08.pdf#page=19&view=fitV)** or watch the video at **[Timestamp 51:51](https://www.youtube.com/watch?v=DAI8bMHITno#t=3111s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
 ### [Bulk Flow Interactions](https://www.youtube.com/watch?v=DAI8bMHITno#t=3189s)
 You can deep dive into this topic on **[Slide 08.20](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec08.pdf#page=20&view=fitV)** or watch the video at **[Timestamp 53:09](https://www.youtube.com/watch?v=DAI8bMHITno#t=3189s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
 ### [Pulsion Work (and How Enthalpy Gets In)](https://www.youtube.com/watch?v=DAI8bMHITno#t=3396s)
 You can deep dive into this topic on **[Slide 08.21](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec08.pdf#page=21&view=fitV)** or watch the video at **[Timestamp 56:36](https://www.youtube.com/watch?v=DAI8bMHITno#t=3396s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
-### [](https://www.youtube.com/watch?v=DAI8bMHITno#t=3666s)
-You can deep dive into this topic on **[Slide 08.22](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec08.pdf#page=22&view=fitV)** or watch the video at **[Timestamp 61:06](https://www.youtube.com/watch?v=DAI8bMHITno#t=3666s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=DAI8bMHITno#t=3674s)
-You can deep dive into this topic on **[Slide 08.23](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec08.pdf#page=23&view=fitV)** or watch the video at **[Timestamp 61:14](https://www.youtube.com/watch?v=DAI8bMHITno#t=3674s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=DAI8bMHITno#t=3731s)
-You can deep dive into this topic on **[Slide 08.24](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec08.pdf#page=24&view=fitV)** or watch the video at **[Timestamp 62:11](https://www.youtube.com/watch?v=DAI8bMHITno#t=3731s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
 ### [Mass, Energy and Entropy Balances for a System Open to Bulk Flow, Heat, and Work Interactions](https://www.youtube.com/watch?v=DAI8bMHITno#t=3741s)
 You can deep dive into this topic on **[Slide 08.25](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec08.pdf#page=25&view=fitV)** or watch the video at **[Timestamp 62:21](https://www.youtube.com/watch?v=DAI8bMHITno#t=3741s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=DAI8bMHITno#t=3904s)
-You can deep dive into this topic on **[Slide 08.26](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec08.pdf#page=26&view=fitV)** or watch the video at **[Timestamp 65:04](https://www.youtube.com/watch?v=DAI8bMHITno#t=3904s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
 ### [Exergies and First and Second-Law Efficiencies in Energy Conversion Technologies](https://www.youtube.com/watch?v=DAI8bMHITno#t=3998s)
 You can deep dive into this topic on **[Slide 08.27](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec08.pdf#page=27&view=fitV)** or watch the video at **[Timestamp 66:38](https://www.youtube.com/watch?v=DAI8bMHITno#t=3998s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
@@ -756,9 +609,6 @@ You can deep dive into this topic on **[Slide 08.32](https://ocw.mit.edu/courses
 
 ### [Exergy Associated with Heat Exchange](https://www.youtube.com/watch?v=DAI8bMHITno#t=5156s)
 You can deep dive into this topic on **[Slide 08.33](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec08.pdf#page=33&view=fitV)** or watch the video at **[Timestamp 85:56](https://www.youtube.com/watch?v=DAI8bMHITno#t=5156s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=DAI8bMHITno#t=5223s)
-You can deep dive into this topic on **[Slide 08.34](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec08.pdf#page=34&view=fitV)** or watch the video at **[Timestamp 87:03](https://www.youtube.com/watch?v=DAI8bMHITno#t=5223s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
 ### [Exergy and Second-Law Efficiency in Simple Cogeneration](https://www.youtube.com/watch?v=DAI8bMHITno#t=5234s)
 You can deep dive into this topic on **[Slide 08.35](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec08.pdf#page=35&view=fitV)** or watch the video at **[Timestamp 87:14](https://www.youtube.com/watch?v=DAI8bMHITno#t=5234s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
@@ -793,9 +643,6 @@ You can deep dive into this topic on **[Slide 09.09](https://ocw.mit.edu/courses
 ### [Small Systems: Minimum Work of Partitioning](https://www.youtube.com/watch?v=zVaeqsDzXzU#t=720s)
 You can deep dive into this topic on **[Slide 09.10](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec09.pdf#page=10&view=fitV)** or watch the video at **[Timestamp 12:00](https://www.youtube.com/watch?v=zVaeqsDzXzU#t=720s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
-### [](https://www.youtube.com/watch?v=zVaeqsDzXzU#t=917s)
-You can deep dive into this topic on **[Slide 09.11](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec09.pdf#page=11&view=fitV)** or watch the video at **[Timestamp 15:17](https://www.youtube.com/watch?v=zVaeqsDzXzU#t=917s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
 ### [Basic Simple-System Models of Stable-Equilibrium Properties of (Macroscopic Amounts of) Pure Substances](https://www.youtube.com/watch?v=zVaeqsDzXzU#t=1111s)
 You can deep dive into this topic on **[Slide 09.12](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec09.pdf#page=12&view=fitV)** or watch the video at **[Timestamp 18:31](https://www.youtube.com/watch?v=zVaeqsDzXzU#t=1111s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
@@ -817,9 +664,6 @@ You can deep dive into this topic on **[Slide 09.17](https://ocw.mit.edu/courses
 ### [Gibbs’ Phase Rule (Possible Cases for a Pure Substance)](https://www.youtube.com/watch?v=zVaeqsDzXzU#t=2375s)
 You can deep dive into this topic on **[Slide 09.18](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec09.pdf#page=18&view=fitV)** or watch the video at **[Timestamp 39:35](https://www.youtube.com/watch?v=zVaeqsDzXzU#t=2375s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
-### [](https://www.youtube.com/watch?v=zVaeqsDzXzU#t=2609s)
-You can deep dive into this topic on **[Slide 09.19](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec09.pdf#page=19&view=fitV)** or watch the video at **[Timestamp 43:29](https://www.youtube.com/watch?v=zVaeqsDzXzU#t=2609s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
 ### [Construction of the Fundamental Relation of a Pure Substance, within the Simple System Model, from $T$, $p$, $\alpha_p$, $\kappa_T$, $C_P$](https://www.youtube.com/watch?v=zVaeqsDzXzU#t=2857s)
 You can deep dive into this topic on **[Slide 09.20](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec09.pdf#page=20&view=fitV)** or watch the video at **[Timestamp 47:37](https://www.youtube.com/watch?v=zVaeqsDzXzU#t=2857s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
@@ -828,9 +672,6 @@ You can deep dive into this topic on **[Slide 09.21](https://ocw.mit.edu/courses
 
 ### [Ideal (Perfect) Gas Model](https://www.youtube.com/watch?v=zVaeqsDzXzU#t=3225s)
 You can deep dive into this topic on **[Slide 09.22](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec09.pdf#page=22&view=fitV)** or watch the video at **[Timestamp 53:45](https://www.youtube.com/watch?v=zVaeqsDzXzU#t=3225s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=zVaeqsDzXzU#t=3368s)
-You can deep dive into this topic on **[Slide 09.23](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec09.pdf#page=23&view=fitV)** or watch the video at **[Timestamp 56:08](https://www.youtube.com/watch?v=zVaeqsDzXzU#t=3368s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
 ### [Clausius-Clapeyron Relation (Two-Phase States of a Pure Substance)](https://www.youtube.com/watch?v=zVaeqsDzXzU#t=3878s)
 You can deep dive into this topic on **[Slide 09.24](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec09.pdf#page=24&view=fitV)** or watch the video at **[Timestamp 64:38](https://www.youtube.com/watch?v=zVaeqsDzXzU#t=3878s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
@@ -862,9 +703,6 @@ You can deep dive into this topic on **[Slide 09.32](https://ocw.mit.edu/courses
 ### [Exergy of Bulk Flow Interactions](https://www.youtube.com/watch?v=zVaeqsDzXzU#t=5474s)
 You can deep dive into this topic on **[Slide 09.33](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec09.pdf#page=33&view=fitV)** or watch the video at **[Timestamp 91:14](https://www.youtube.com/watch?v=zVaeqsDzXzU#t=5474s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
-### [](https://www.youtube.com/watch?v=zVaeqsDzXzU#t=5719s)
-You can deep dive into this topic on **[Slide 09.34](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec09.pdf#page=34&view=fitV)** or watch the video at **[Timestamp 95:19](https://www.youtube.com/watch?v=zVaeqsDzXzU#t=5719s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
 ### [**Lecture 10: Review of Various Forms of Exergy (Part II); Allocation of Consumptions in Cogeneration**](https://www.youtube.com/watch?v=B_eVgSQhFqI#t=10s)
 You can deep dive into this topic on **[Slide 10.01](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec10.pdf#page=01&view=fitV)** or watch the video at **[Timestamp 0:10](https://www.youtube.com/watch?v=B_eVgSQhFqI#t=10s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
@@ -874,23 +712,14 @@ You can deep dive into this topic on **[Slide 10.02](https://ocw.mit.edu/courses
 ### [Quick Review: Exergy of Bulk Flow Interactions](https://www.youtube.com/watch?v=B_eVgSQhFqI#t=56s)
 You can deep dive into this topic on **[Slide 10.03](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec10.pdf#page=03&view=fitV)** or watch the video at **[Timestamp 0:56](https://www.youtube.com/watch?v=B_eVgSQhFqI#t=56s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
-### [](https://www.youtube.com/watch?v=B_eVgSQhFqI#t=89s)
-You can deep dive into this topic on **[Slide 10.04](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec10.pdf#page=04&view=fitV)** or watch the video at **[Timestamp 1:29](https://www.youtube.com/watch?v=B_eVgSQhFqI#t=89s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
 ### [Exergy in Heating and Cooling Bulk Flows](https://www.youtube.com/watch?v=B_eVgSQhFqI#t=101s)
 You can deep dive into this topic on **[Slide 10.05](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec10.pdf#page=05&view=fitV)** or watch the video at **[Timestamp 1:41](https://www.youtube.com/watch?v=B_eVgSQhFqI#t=101s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=B_eVgSQhFqI#t=309s)
-You can deep dive into this topic on **[Slide 10.06](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec10.pdf#page=06&view=fitV)** or watch the video at **[Timestamp 5:09](https://www.youtube.com/watch?v=B_eVgSQhFqI#t=309s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
 ### [Exergy of an Hydraulic Jump](https://www.youtube.com/watch?v=B_eVgSQhFqI#t=440s)
 You can deep dive into this topic on **[Slide 10.07](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec10.pdf#page=07&view=fitV)** or watch the video at **[Timestamp 7:20](https://www.youtube.com/watch?v=B_eVgSQhFqI#t=440s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
 ### [Exergy in Heating and Cooling Bulk Flows](https://www.youtube.com/watch?v=B_eVgSQhFqI#t=934s)
 You can deep dive into this topic on **[Slide 10.08](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec10.pdf#page=08&view=fitV)** or watch the video at **[Timestamp 15:34](https://www.youtube.com/watch?v=B_eVgSQhFqI#t=934s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=B_eVgSQhFqI#t=956s)
-You can deep dive into this topic on **[Slide 10.09](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec10.pdf#page=09&view=fitV)** or watch the video at **[Timestamp 15:56](https://www.youtube.com/watch?v=B_eVgSQhFqI#t=956s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
 ### [Temperature of the Equivalent Heat Interaction in Heating / Cooling for a Liquid Flow](https://www.youtube.com/watch?v=B_eVgSQhFqI#t=1073s)
 You can deep dive into this topic on **[Slide 10.10](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec10.pdf#page=10&view=fitV)** or watch the video at **[Timestamp 17:53](https://www.youtube.com/watch?v=B_eVgSQhFqI#t=1073s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
@@ -916,20 +745,11 @@ You can deep dive into this topic on **[Slide 10.16](https://ocw.mit.edu/courses
 ### [The Learning Curve of Fuel-to-Power Conversion Technologies](https://www.youtube.com/watch?v=B_eVgSQhFqI#t=2364s)
 You can deep dive into this topic on **[Slide 10.17](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec10.pdf#page=17&view=fitV)** or watch the video at **[Timestamp 39:24](https://www.youtube.com/watch?v=B_eVgSQhFqI#t=2364s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
-### [](https://www.youtube.com/watch?v=B_eVgSQhFqI#t=2496s)
-You can deep dive into this topic on **[Slide 10.18](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec10.pdf#page=18&view=fitV)** or watch the video at **[Timestamp 41:36](https://www.youtube.com/watch?v=B_eVgSQhFqI#t=2496s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=B_eVgSQhFqI#t=2647s)
-You can deep dive into this topic on **[Slide 10.19](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec10.pdf#page=19&view=fitV)** or watch the video at **[Timestamp 44:07](https://www.youtube.com/watch?v=B_eVgSQhFqI#t=2647s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
 ### [Power-Plant Philosophy of Best Available Flame-Based Fuel-to-Power Conversion Technologies](https://www.youtube.com/watch?v=B_eVgSQhFqI#t=2786s)
 You can deep dive into this topic on **[Slide 10.20](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec10.pdf#page=20&view=fitV)** or watch the video at **[Timestamp 46:26](https://www.youtube.com/watch?v=B_eVgSQhFqI#t=2786s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
 ### [](https://www.youtube.com/watch?v=B_eVgSQhFqI#t=2961s)
 You can deep dive into this topic on **[Slide 10.21](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec10.pdf#page=21&view=fitV)** or watch the video at **[Timestamp 49:21](https://www.youtube.com/watch?v=B_eVgSQhFqI#t=2961s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=B_eVgSQhFqI#t=3032s)
-You can deep dive into this topic on **[Slide 10.22](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec10.pdf#page=22&view=fitV)** or watch the video at **[Timestamp 50:32](https://www.youtube.com/watch?v=B_eVgSQhFqI#t=3032s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
 ### [One Way to Get Around the Inherent Irreversibility of Flames Is by Oxidating the Fuel in Fuel Cells](https://www.youtube.com/watch?v=B_eVgSQhFqI#t=3064s)
 You can deep dive into this topic on **[Slide 10.23](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec10.pdf#page=23&view=fitV)** or watch the video at **[Timestamp 51:04](https://www.youtube.com/watch?v=B_eVgSQhFqI#t=3064s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
@@ -943,9 +763,6 @@ You can deep dive into this topic on **[Slide 10.25](https://ocw.mit.edu/courses
 
 ### [Allocation Problem in Heat\&Power Cogeneration: Allocation Fractions, Partial Efficiencies, and Primary Energy Savings (PES)](https://www.youtube.com/watch?v=B_eVgSQhFqI#t=3530s)
 You can deep dive into this topic on **[Slide 10.26](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec10.pdf#page=26&view=fitV)** or watch the video at **[Timestamp 58:50](https://www.youtube.com/watch?v=B_eVgSQhFqI#t=3530s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=B_eVgSQhFqI#t=3741s)
-You can deep dive into this topic on **[Slide 10.27](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec10.pdf#page=27&view=fitV)** or watch the video at **[Timestamp 62:21](https://www.youtube.com/watch?v=B_eVgSQhFqI#t=3741s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
 ### [Allocation Problem in CHP: Incremental Electricity-Centered Allocation](https://www.youtube.com/watch?v=B_eVgSQhFqI#t=3942s)
 You can deep dive into this topic on **[Slide 10.28](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec10.pdf#page=28&view=fitV)** or watch the video at **[Timestamp 65:42](https://www.youtube.com/watch?v=B_eVgSQhFqI#t=3942s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
@@ -962,29 +779,11 @@ You can deep dive into this topic on **[Slide 10.31](https://ocw.mit.edu/courses
 ### [Allocation Example in CHP: a Comparison Between Allocation Methods](https://www.youtube.com/watch?v=B_eVgSQhFqI#t=4929s)
 You can deep dive into this topic on **[Slide 10.32](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec10.pdf#page=32&view=fitV)** or watch the video at **[Timestamp 82:09](https://www.youtube.com/watch?v=B_eVgSQhFqI#t=4929s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
-### [](https://www.youtube.com/watch?v=B_eVgSQhFqI#t=5179s)
-You can deep dive into this topic on **[Slide 10.33](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec10.pdf#page=33&view=fitV)** or watch the video at **[Timestamp 86:19](https://www.youtube.com/watch?v=B_eVgSQhFqI#t=5179s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=B_eVgSQhFqI#t=5269s)
-You can deep dive into this topic on **[Slide 10.34](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec10.pdf#page=34&view=fitV)** or watch the video at **[Timestamp 87:49](https://www.youtube.com/watch?v=B_eVgSQhFqI#t=5269s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=B_eVgSQhFqI#t=5280s)
-You can deep dive into this topic on **[Slide 10.35](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec10.pdf#page=35&view=fitV)** or watch the video at **[Timestamp 88:00](https://www.youtube.com/watch?v=B_eVgSQhFqI#t=5280s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=B_eVgSQhFqI#t=5282s)
-You can deep dive into this topic on **[Slide 10.36](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec10.pdf#page=36&view=fitV)** or watch the video at **[Timestamp 88:02](https://www.youtube.com/watch?v=B_eVgSQhFqI#t=5282s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=B_eVgSQhFqI#t=5294s)
-You can deep dive into this topic on **[Slide 10.37](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec10.pdf#page=37&view=fitV)** or watch the video at **[Timestamp 88:14](https://www.youtube.com/watch?v=B_eVgSQhFqI#t=5294s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
 ### [What Fraction of the Electrical Energy Produced in a Hybrid Solar-Fossil Power Plant Should Qualify as ‘Renewable Electricity’?](https://www.youtube.com/watch?v=B_eVgSQhFqI#t=5356s)
 You can deep dive into this topic on **[Slide 10.38](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec10.pdf#page=38&view=fitV)** or watch the video at **[Timestamp 89:16](https://www.youtube.com/watch?v=B_eVgSQhFqI#t=5356s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
 ### [Allocation Problem in Hybrid Facilities: Allocation Fractions, Partial Efficiencies, and Primary Energy Savings PES](https://www.youtube.com/watch?v=B_eVgSQhFqI#t=5751s)
 You can deep dive into this topic on **[Slide 10.39](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec10.pdf#page=39&view=fitV)** or watch the video at **[Timestamp 95:51](https://www.youtube.com/watch?v=B_eVgSQhFqI#t=5751s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=B_eVgSQhFqI#t=5848s)
-You can deep dive into this topic on **[Slide 10.40](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec10.pdf#page=40&view=fitV)** or watch the video at **[Timestamp 97:28](https://www.youtube.com/watch?v=B_eVgSQhFqI#t=5848s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
 ### [Allocation Problem in Hybrid Facilities: Incremental Fossil-Centered Allocation](https://www.youtube.com/watch?v=B_eVgSQhFqI#t=5908s)
 You can deep dive into this topic on **[Slide 10.41](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec10.pdf#page=41&view=fitV)** or watch the video at **[Timestamp 98:28](https://www.youtube.com/watch?v=B_eVgSQhFqI#t=5908s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
@@ -997,9 +796,6 @@ You can deep dive into this topic on **[Slide 10.43](https://ocw.mit.edu/courses
 
 ### [**Lecture 11: Allocation in Hybrid Power Production; Chemical Potentials and Partial Pressures**](https://www.youtube.com/watch?v=Ly6C1oQP7Os#t=10s)
 You can deep dive into this topic on **[Slide 11.01](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec11.pdf#page=01&view=fitV)** or watch the video at **[Timestamp 0:10](https://www.youtube.com/watch?v=Ly6C1oQP7Os#t=10s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=Ly6C1oQP7Os#t=13s)
-You can deep dive into this topic on **[Slide 11.02](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec11.pdf#page=02&view=fitV)** or watch the video at **[Timestamp 0:13](https://www.youtube.com/watch?v=Ly6C1oQP7Os#t=13s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
 ### [Quick Review: Exergy in Heating and Cooling Bulk Flows](https://www.youtube.com/watch?v=Ly6C1oQP7Os#t=31s)
 You can deep dive into this topic on **[Slide 11.03](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec11.pdf#page=03&view=fitV)** or watch the video at **[Timestamp 0:31](https://www.youtube.com/watch?v=Ly6C1oQP7Os#t=31s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
@@ -1015,30 +811,6 @@ You can deep dive into this topic on **[Slide 11.06](https://ocw.mit.edu/courses
 
 ### [Typical (Efficient and Inefficient) Uses of Fossil Fuels](https://www.youtube.com/watch?v=Ly6C1oQP7Os#t=592s)
 You can deep dive into this topic on **[Slide 11.07](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec11.pdf#page=07&view=fitV)** or watch the video at **[Timestamp 9:52](https://www.youtube.com/watch?v=Ly6C1oQP7Os#t=592s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=Ly6C1oQP7Os#t=1011s)
-You can deep dive into this topic on **[Slide 11.08](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec11.pdf#page=08&view=fitV)** or watch the video at **[Timestamp 16:51](https://www.youtube.com/watch?v=Ly6C1oQP7Os#t=1011s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=Ly6C1oQP7Os#t=1207s)
-You can deep dive into this topic on **[Slide 11.09](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec11.pdf#page=09&view=fitV)** or watch the video at **[Timestamp 20:07](https://www.youtube.com/watch?v=Ly6C1oQP7Os#t=1207s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=Ly6C1oQP7Os#t=1357s)
-You can deep dive into this topic on **[Slide 11.10](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec11.pdf#page=10&view=fitV)** or watch the video at **[Timestamp 22:37](https://www.youtube.com/watch?v=Ly6C1oQP7Os#t=1357s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=Ly6C1oQP7Os#t=1409s)
-You can deep dive into this topic on **[Slide 11.11](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec11.pdf#page=11&view=fitV)** or watch the video at **[Timestamp 23:29](https://www.youtube.com/watch?v=Ly6C1oQP7Os#t=1409s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=Ly6C1oQP7Os#t=1437s)
-You can deep dive into this topic on **[Slide 11.12](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec11.pdf#page=12&view=fitV)** or watch the video at **[Timestamp 23:57](https://www.youtube.com/watch?v=Ly6C1oQP7Os#t=1437s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=Ly6C1oQP7Os#t=1606s)
-You can deep dive into this topic on **[Slide 11.13](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec11.pdf#page=13&view=fitV)** or watch the video at **[Timestamp 26:46](https://www.youtube.com/watch?v=Ly6C1oQP7Os#t=1606s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=Ly6C1oQP7Os#t=1732s)
-You can deep dive into this topic on **[Slide 11.14](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec11.pdf#page=14&view=fitV)** or watch the video at **[Timestamp 28:52](https://www.youtube.com/watch?v=Ly6C1oQP7Os#t=1732s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=Ly6C1oQP7Os#t=1880s)
-You can deep dive into this topic on **[Slide 11.15](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec11.pdf#page=15&view=fitV)** or watch the video at **[Timestamp 31:20](https://www.youtube.com/watch?v=Ly6C1oQP7Os#t=1880s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
 ### [Quick Review: Methods for the Allocation of Energy Consumption and CO$_2$ Production in Combined Heat and Power (CHP) Production and of Heat and/or Power Production in Hybrid Multi-Resource Facilities](https://www.youtube.com/watch?v=Ly6C1oQP7Os#t=1981s)
 You can deep dive into this topic on **[Slide 11.16](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec11.pdf#page=16&view=fitV)** or watch the video at **[Timestamp 33:01](https://www.youtube.com/watch?v=Ly6C1oQP7Os#t=1981s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
@@ -1106,9 +878,6 @@ You can deep dive into this topic on **[Slide 11.36](https://ocw.mit.edu/courses
 ### [Experimental Measurement of SES Properties of Mixtures: Mixture Properties from the Partial Properties](https://www.youtube.com/watch?v=Ly6C1oQP7Os#t=5262s)
 You can deep dive into this topic on **[Slide 11.37](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec11.pdf#page=37&view=fitV)** or watch the video at **[Timestamp 87:42](https://www.youtube.com/watch?v=Ly6C1oQP7Os#t=5262s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
-### [](https://www.youtube.com/watch?v=Ly6C1oQP7Os#t=5778s)
-You can deep dive into this topic on **[Slide 11.38](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec11.pdf#page=38&view=fitV)** or watch the video at **[Timestamp 96:18](https://www.youtube.com/watch?v=Ly6C1oQP7Os#t=5778s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
 ### [**Lecture 12: Ideal Mixture Behavior; Work from Reversible Mixing; Entropy of Irreversible Mixing**](https://www.youtube.com/watch?v=Uh70L7Pr4Jk#t=11s)
 You can deep dive into this topic on **[Slide 12.01](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec12.pdf#page=01&view=fitV)** or watch the video at **[Timestamp 0:11](https://www.youtube.com/watch?v=Uh70L7Pr4Jk#t=11s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
@@ -1139,9 +908,6 @@ You can deep dive into this topic on **[Slide 12.09](https://ocw.mit.edu/courses
 ### [Ideal Gibbs-Dalton Behavior](https://www.youtube.com/watch?v=Uh70L7Pr4Jk#t=2754s)
 You can deep dive into this topic on **[Slide 12.10](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec12.pdf#page=10&view=fitV)** or watch the video at **[Timestamp 45:54](https://www.youtube.com/watch?v=Uh70L7Pr4Jk#t=2754s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
-### [](https://www.youtube.com/watch?v=Uh70L7Pr4Jk#t=3196s)
-You can deep dive into this topic on **[Slide 12.11](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec12.pdf#page=11&view=fitV)** or watch the video at **[Timestamp 53:16](https://www.youtube.com/watch?v=Uh70L7Pr4Jk#t=3196s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
 ### [Ideal Gibbs-Dalton Mixtures of Ideal Gases](https://www.youtube.com/watch?v=Uh70L7Pr4Jk#t=3786s)
 You can deep dive into this topic on **[Slide 12.12](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec12.pdf#page=12&view=fitV)** or watch the video at **[Timestamp 63:06](https://www.youtube.com/watch?v=Uh70L7Pr4Jk#t=3786s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
@@ -1150,9 +916,6 @@ You can deep dive into this topic on **[Slide 12.13](https://ocw.mit.edu/courses
 
 ### [Isoentropic Mixing of Ideal Gases. Extracting the Adiabatic Availability of Mixing](https://www.youtube.com/watch?v=Uh70L7Pr4Jk#t=5449s)
 You can deep dive into this topic on **[Slide 12.14](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec12.pdf#page=14&view=fitV)** or watch the video at **[Timestamp 90:49](https://www.youtube.com/watch?v=Uh70L7Pr4Jk#t=5449s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=Uh70L7Pr4Jk#t=5895s)
-You can deep dive into this topic on **[Slide 12.15](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec12.pdf#page=15&view=fitV)** or watch the video at **[Timestamp 98:15](https://www.youtube.com/watch?v=Uh70L7Pr4Jk#t=5895s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
 ### [**Lecture 13: Gibbs Paradox; Shannon Information Entropy; Single Quantum Particle in a Box**](https://www.youtube.com/watch?v=RbAjBxvCsAU#t=12s)
 You can deep dive into this topic on **[Slide 13.01](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec13.pdf#page=01&view=fitV)** or watch the video at **[Timestamp 0:12](https://www.youtube.com/watch?v=RbAjBxvCsAU#t=12s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
@@ -1177,9 +940,6 @@ You can deep dive into this topic on **[Slide 13.07](https://ocw.mit.edu/courses
 
 ### [Quick Review:  Isoentropic Mixing of Ideal Gases. Extracting the Adiabatic Availability of Mixing](https://www.youtube.com/watch?v=RbAjBxvCsAU#t=393s)
 You can deep dive into this topic on **[Slide 13.08](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec13.pdf#page=08&view=fitV)** or watch the video at **[Timestamp 6:33](https://www.youtube.com/watch?v=RbAjBxvCsAU#t=393s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=RbAjBxvCsAU#t=430s)
-You can deep dive into this topic on **[Slide 13.09](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec13.pdf#page=09&view=fitV)** or watch the video at **[Timestamp 7:10](https://www.youtube.com/watch?v=RbAjBxvCsAU#t=430s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
 ### [Semipermeable (Passive Transport) vs Selective (Active Transport). Membranes](https://www.youtube.com/watch?v=RbAjBxvCsAU#t=566s)
 You can deep dive into this topic on **[Slide 13.10](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec13.pdf#page=10&view=fitV)** or watch the video at **[Timestamp 9:26](https://www.youtube.com/watch?v=RbAjBxvCsAU#t=566s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
@@ -1214,9 +974,6 @@ You can deep dive into this topic on **[Slide 14.02](https://ocw.mit.edu/courses
 ### [Are Mixture Properties Determined by the Pure-Substance Properties of Its Constituents? Ideal Solution Behavior](https://www.youtube.com/watch?v=kQw9eXq25yc#t=50s)
 You can deep dive into this topic on **[Slide 14.03](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec14.pdf#page=03&view=fitV)** or watch the video at **[Timestamp 0:50](https://www.youtube.com/watch?v=kQw9eXq25yc#t=50s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
-### [](https://www.youtube.com/watch?v=kQw9eXq25yc#t=472s)
-You can deep dive into this topic on **[Slide 14.04](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec14.pdf#page=04&view=fitV)** or watch the video at **[Timestamp 7:52](https://www.youtube.com/watch?v=kQw9eXq25yc#t=472s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
 ### [Osmotic Pressure of the Solvent of a Dilute Solution: Van’t Hoff Relation](https://www.youtube.com/watch?v=kQw9eXq25yc#t=651s)
 You can deep dive into this topic on **[Slide 14.05](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec14.pdf#page=05&view=fitV)** or watch the video at **[Timestamp 10:51](https://www.youtube.com/watch?v=kQw9eXq25yc#t=651s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
@@ -1229,17 +986,11 @@ You can deep dive into this topic on **[Slide 14.07](https://ocw.mit.edu/courses
 ### [An Important Example: Osmotic Pressure of Seawater](https://www.youtube.com/watch?v=kQw9eXq25yc#t=1505s)
 You can deep dive into this topic on **[Slide 14.08](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec14.pdf#page=08&view=fitV)** or watch the video at **[Timestamp 25:05](https://www.youtube.com/watch?v=kQw9eXq25yc#t=1505s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
-### [](https://www.youtube.com/watch?v=kQw9eXq25yc#t=1948s)
-You can deep dive into this topic on **[Slide 14.09](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec14.pdf#page=09&view=fitV)** or watch the video at **[Timestamp 32:28](https://www.youtube.com/watch?v=kQw9eXq25yc#t=1948s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
 ### [A Vital Application in Many Countries: Fresh Water Production from Saline Waters. Pressure-Driven Reverse-Osmosis Desalination of Seawater](https://www.youtube.com/watch?v=kQw9eXq25yc#t=2093s)
 You can deep dive into this topic on **[Slide 14.10](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec14.pdf#page=10&view=fitV)** or watch the video at **[Timestamp 34:53](https://www.youtube.com/watch?v=kQw9eXq25yc#t=2093s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
 ### [A Potential Renewable Energy Source: Osmotic Power (Blue Energy)](https://www.youtube.com/watch?v=kQw9eXq25yc#t=2855s)
 You can deep dive into this topic on **[Slide 14.11](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec14.pdf#page=11&view=fitV)** or watch the video at **[Timestamp 47:35](https://www.youtube.com/watch?v=kQw9eXq25yc#t=2855s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=kQw9eXq25yc#t=3252s)
-You can deep dive into this topic on **[Slide 14.12](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec14.pdf#page=12&view=fitV)** or watch the video at **[Timestamp 54:12](https://www.youtube.com/watch?v=kQw9eXq25yc#t=3252s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
 ### [Isothermobaric Demixing of Ideal Gas Mixtures or Ideal Solutions: Minimum Work of Complete Separation](https://www.youtube.com/watch?v=kQw9eXq25yc#t=3493s)
 You can deep dive into this topic on **[Slide 14.13](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec14.pdf#page=13&view=fitV)** or watch the video at **[Timestamp 58:13](https://www.youtube.com/watch?v=kQw9eXq25yc#t=3493s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
@@ -1328,9 +1079,6 @@ You can deep dive into this topic on **[Slide 16.02](https://ocw.mit.edu/courses
 ### [Raoult's Law](https://www.youtube.com/watch?v=RIeeEJglO10#t=150s)
 You can deep dive into this topic on **[Slide 16.03](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec16.pdf#page=03&view=fitV)** or watch the video at **[Timestamp 2:30](https://www.youtube.com/watch?v=RIeeEJglO10#t=150s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
-### [](https://www.youtube.com/watch?v=RIeeEJglO10#t=1090s)
-You can deep dive into this topic on **[Slide 16.04](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec16.pdf#page=04&view=fitV)** or watch the video at **[Timestamp 18:10](https://www.youtube.com/watch?v=RIeeEJglO10#t=1090s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
 ### [Principle of Distillation](https://www.youtube.com/watch?v=RIeeEJglO10#t=1630s)
 You can deep dive into this topic on **[Slide 16.05](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec16.pdf#page=05&view=fitV)** or watch the video at **[Timestamp 27:10](https://www.youtube.com/watch?v=RIeeEJglO10#t=1630s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
@@ -1349,9 +1097,6 @@ You can deep dive into this topic on **[Slide 16.09](https://ocw.mit.edu/courses
 ### [Modeling Non-Ideal SES Behavior of Mixtures: Simple and Complex Model Relations for Binary Mixtures](https://www.youtube.com/watch?v=RIeeEJglO10#t=3391s)
 You can deep dive into this topic on **[Slide 16.10](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec16.pdf#page=10&view=fitV)** or watch the video at **[Timestamp 56:31](https://www.youtube.com/watch?v=RIeeEJglO10#t=3391s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
-### [](https://www.youtube.com/watch?v=RIeeEJglO10#t=4114s)
-You can deep dive into this topic on **[Slide 16.11](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec16.pdf#page=11&view=fitV)** or watch the video at **[Timestamp 68:34](https://www.youtube.com/watch?v=RIeeEJglO10#t=4114s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
 ### [Alternative Traditional Ways to Represent Chemical Potentials: Activities and Activity Coefficients](https://www.youtube.com/watch?v=RIeeEJglO10#t=4354s)
 You can deep dive into this topic on **[Slide 16.12](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec16.pdf#page=12&view=fitV)** or watch the video at **[Timestamp 72:34](https://www.youtube.com/watch?v=RIeeEJglO10#t=4354s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
@@ -1364,17 +1109,11 @@ You can deep dive into this topic on **[Slide 16.14](https://ocw.mit.edu/courses
 ### [Simple Model of Non-Ideal Liquid-Vapor Equilibrium: Liquid-Vapor Equilibrium Modeled with the Van Laar Models](https://www.youtube.com/watch?v=RIeeEJglO10#t=4717s)
 You can deep dive into this topic on **[Slide 16.15](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec16.pdf#page=15&view=fitV)** or watch the video at **[Timestamp 78:37](https://www.youtube.com/watch?v=RIeeEJglO10#t=4717s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
-### [](https://www.youtube.com/watch?v=RIeeEJglO10#t=4928s)
-You can deep dive into this topic on **[Slide 16.16](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec16.pdf#page=16&view=fitV)** or watch the video at **[Timestamp 82:08](https://www.youtube.com/watch?v=RIeeEJglO10#t=4928s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
 ### [MD and MC Modeling of Non-Ideal SES Mixture Behavior: Lennard-Jones Binary Mixture](https://www.youtube.com/watch?v=RIeeEJglO10#t=4964s)
 You can deep dive into this topic on **[Slide 16.17](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec16.pdf#page=17&view=fitV)** or watch the video at **[Timestamp 82:44](https://www.youtube.com/watch?v=RIeeEJglO10#t=4964s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
 ### [Liquid-Vapor Equilibria for Non-Ideal Binary Mixtures](https://www.youtube.com/watch?v=RIeeEJglO10#t=5282s)
 You can deep dive into this topic on **[Slide 16.18](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec16.pdf#page=18&view=fitV)** or watch the video at **[Timestamp 88:02](https://www.youtube.com/watch?v=RIeeEJglO10#t=5282s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=RIeeEJglO10#t=5294s)
-You can deep dive into this topic on **[Slide 16.19](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec16.pdf#page=19&view=fitV)** or watch the video at **[Timestamp 88:14](https://www.youtube.com/watch?v=RIeeEJglO10#t=5294s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
 ### [**Lecture 17: Liquid-Liquid Spinodal Decomposition; Introduction to Systems with Chemical Reactions**](https://www.youtube.com/watch?v=EW2hjUFRWZ0#t=12s)
 You can deep dive into this topic on **[Slide 17.01](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec17.pdf#page=01&view=fitV)** or watch the video at **[Timestamp 0:12](https://www.youtube.com/watch?v=EW2hjUFRWZ0#t=12s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
@@ -1382,14 +1121,8 @@ You can deep dive into this topic on **[Slide 17.01](https://ocw.mit.edu/courses
 ### [Liquid-Vapor Equilibria for Non-Ideal Binary Mixtures](https://www.youtube.com/watch?v=EW2hjUFRWZ0#t=23s)
 You can deep dive into this topic on **[Slide 17.02](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec17.pdf#page=02&view=fitV)** or watch the video at **[Timestamp 0:23](https://www.youtube.com/watch?v=EW2hjUFRWZ0#t=23s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
-### [](https://www.youtube.com/watch?v=EW2hjUFRWZ0#t=38s)
-You can deep dive into this topic on **[Slide 17.03](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec17.pdf#page=03&view=fitV)** or watch the video at **[Timestamp 0:38](https://www.youtube.com/watch?v=EW2hjUFRWZ0#t=38s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
 ### [Henry's Law for Dilute Non-Ideal Solutions](https://www.youtube.com/watch?v=EW2hjUFRWZ0#t=301s)
 You can deep dive into this topic on **[Slide 17.04](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec17.pdf#page=04&view=fitV)** or watch the video at **[Timestamp 5:01](https://www.youtube.com/watch?v=EW2hjUFRWZ0#t=301s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=EW2hjUFRWZ0#t=738s)
-You can deep dive into this topic on **[Slide 17.05](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec17.pdf#page=05&view=fitV)** or watch the video at **[Timestamp 12:18](https://www.youtube.com/watch?v=EW2hjUFRWZ0#t=738s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
 ### [Modeling Non-Ideal SES Behavior of Mixtures: Careful in Taking Derivatives!](https://www.youtube.com/watch?v=EW2hjUFRWZ0#t=1013s)
 You can deep dive into this topic on **[Slide 17.06](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec17.pdf#page=06&view=fitV)** or watch the video at **[Timestamp 16:53](https://www.youtube.com/watch?v=EW2hjUFRWZ0#t=1013s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
@@ -1460,12 +1193,6 @@ You can deep dive into this topic on **[Slide 18.10](https://ocw.mit.edu/courses
 ### [When Is an Isothermobaric Reaction Product- or Reactant-Favored?](https://www.youtube.com/watch?v=4xVsIV4zhvI#t=1671s)
 You can deep dive into this topic on **[Slide 18.11](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec18.pdf#page=11&view=fitV)** or watch the video at **[Timestamp 27:51](https://www.youtube.com/watch?v=4xVsIV4zhvI#t=1671s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
-### [](https://www.youtube.com/watch?v=4xVsIV4zhvI#t=1681s)
-You can deep dive into this topic on **[Slide 18.12](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec18.pdf#page=12&view=fitV)** or watch the video at **[Timestamp 28:01](https://www.youtube.com/watch?v=4xVsIV4zhvI#t=1681s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=4xVsIV4zhvI#t=2007s)
-You can deep dive into this topic on **[Slide 18.13](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec18.pdf#page=13&view=fitV)** or watch the video at **[Timestamp 33:27](https://www.youtube.com/watch?v=4xVsIV4zhvI#t=2007s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
 ### [When Is an Isothermal Reaction Product- or Reactant-Favored?](https://www.youtube.com/watch?v=4xVsIV4zhvI#t=2138s)
 You can deep dive into this topic on **[Slide 18.14](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec18.pdf#page=14&view=fitV)** or watch the video at **[Timestamp 35:38](https://www.youtube.com/watch?v=4xVsIV4zhvI#t=2138s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
@@ -1477,9 +1204,6 @@ You can deep dive into this topic on **[Slide 18.16](https://ocw.mit.edu/courses
 
 ### [Oxidation of Hydrocarbons](https://www.youtube.com/watch?v=4xVsIV4zhvI#t=2839s)
 You can deep dive into this topic on **[Slide 18.17](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec18.pdf#page=17&view=fitV)** or watch the video at **[Timestamp 47:19](https://www.youtube.com/watch?v=4xVsIV4zhvI#t=2839s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=4xVsIV4zhvI#t=2844s)
-You can deep dive into this topic on **[Slide 18.18](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec18.pdf#page=18&view=fitV)** or watch the video at **[Timestamp 47:24](https://www.youtube.com/watch?v=4xVsIV4zhvI#t=2844s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
 ### [Properties of the Reaction of Oxidation of Hydrocarbons](https://www.youtube.com/watch?v=4xVsIV4zhvI#t=3129s)
 You can deep dive into this topic on **[Slide 18.19](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec18.pdf#page=19&view=fitV)** or watch the video at **[Timestamp 52:09](https://www.youtube.com/watch?v=4xVsIV4zhvI#t=3129s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
@@ -1495,9 +1219,6 @@ You can deep dive into this topic on **[Slide 18.22](https://ocw.mit.edu/courses
 
 ### [Adiabatic Flame Temperature Calculations](https://www.youtube.com/watch?v=4xVsIV4zhvI#t=4464s)
 You can deep dive into this topic on **[Slide 18.23](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec18.pdf#page=23&view=fitV)** or watch the video at **[Timestamp 74:24](https://www.youtube.com/watch?v=4xVsIV4zhvI#t=4464s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=4xVsIV4zhvI#t=4626s)
-You can deep dive into this topic on **[Slide 18.24](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec18.pdf#page=24&view=fitV)** or watch the video at **[Timestamp 77:06](https://www.youtube.com/watch?v=4xVsIV4zhvI#t=4626s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
 ### [Adiabatic Flame Temperature and Pressure in a Closed Bomb](https://www.youtube.com/watch?v=4xVsIV4zhvI#t=4699s)
 You can deep dive into this topic on **[Slide 18.25](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec18.pdf#page=25&view=fitV)** or watch the video at **[Timestamp 78:19](https://www.youtube.com/watch?v=4xVsIV4zhvI#t=4699s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
@@ -1640,9 +1361,6 @@ You can deep dive into this topic on **[Slide 20.19](https://ocw.mit.edu/courses
 ### [Vibrational Levels of the CO$_2$ Molecule](https://www.youtube.com/watch?v=KQxKaC1YU60#t=5384s)
 You can deep dive into this topic on **[Slide 20.20](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec20.pdf#page=20&view=fitV)** or watch the video at **[Timestamp 89:44](https://www.youtube.com/watch?v=KQxKaC1YU60#t=5384s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
-### [](https://www.youtube.com/watch?v=KQxKaC1YU60#t=5694s)
-You can deep dive into this topic on **[Slide 20.21](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec20.pdf#page=21&view=fitV)** or watch the video at **[Timestamp 94:54](https://www.youtube.com/watch?v=KQxKaC1YU60#t=5694s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
 ### [**Lecture 21: Introduction to Nonequilibrium Theory; Onsager Reciprocity and Maximum Entropy Production**](https://www.youtube.com/watch?v=lmYzkVOfuqs#t=11s)
 You can deep dive into this topic on **[Slide 21.01](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec21.pdf#page=01&view=fitV)** or watch the video at **[Timestamp 0:11](https://www.youtube.com/watch?v=lmYzkVOfuqs#t=11s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
@@ -1658,9 +1376,6 @@ You can deep dive into this topic on **[Slide 21.04](https://ocw.mit.edu/courses
 ### [Relation Between Rates and Affinities: Far and Near Equilibrium](https://www.youtube.com/watch?v=lmYzkVOfuqs#t=658s)
 You can deep dive into this topic on **[Slide 21.05](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec21.pdf#page=05&view=fitV)** or watch the video at **[Timestamp 10:58](https://www.youtube.com/watch?v=lmYzkVOfuqs#t=658s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
-### [](https://www.youtube.com/watch?v=lmYzkVOfuqs#t=847s)
-You can deep dive into this topic on **[Slide 21.06](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec21.pdf#page=06&view=fitV)** or watch the video at **[Timestamp 14:07](https://www.youtube.com/watch?v=lmYzkVOfuqs#t=847s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
 ### [Linearization of Rate-Affinity (Flux-Force) Relations](https://www.youtube.com/watch?v=lmYzkVOfuqs#t=1251s)
 You can deep dive into this topic on **[Slide 21.07](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec21.pdf#page=07&view=fitV)** or watch the video at **[Timestamp 20:51](https://www.youtube.com/watch?v=lmYzkVOfuqs#t=1251s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
@@ -1673,15 +1388,6 @@ You can deep dive into this topic on **[Slide 21.09](https://ocw.mit.edu/courses
 ### [Graphical Illustration of the Ziegler Orthogonality Relation](https://www.youtube.com/watch?v=lmYzkVOfuqs#t=2774s)
 You can deep dive into this topic on **[Slide 21.10](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec21.pdf#page=10&view=fitV)** or watch the video at **[Timestamp 46:14](https://www.youtube.com/watch?v=lmYzkVOfuqs#t=2774s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
-### [](https://www.youtube.com/watch?v=lmYzkVOfuqs#t=2936s)
-You can deep dive into this topic on **[Slide 21.11](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec21.pdf#page=11&view=fitV)** or watch the video at **[Timestamp 48:56](https://www.youtube.com/watch?v=lmYzkVOfuqs#t=2936s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=lmYzkVOfuqs#t=2970s)
-You can deep dive into this topic on **[Slide 21.12](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec21.pdf#page=12&view=fitV)** or watch the video at **[Timestamp 49:30](https://www.youtube.com/watch?v=lmYzkVOfuqs#t=2970s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=lmYzkVOfuqs#t=2990s)
-You can deep dive into this topic on **[Slide 21.13](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec21.pdf#page=13&view=fitV)** or watch the video at **[Timestamp 49:50](https://www.youtube.com/watch?v=lmYzkVOfuqs#t=2990s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
 ### [Onsager Relations and Symmetry of the Thermal Conductivity Tensor](https://www.youtube.com/watch?v=lmYzkVOfuqs#t=3254s)
 You can deep dive into this topic on **[Slide 21.14](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec21.pdf#page=14&view=fitV)** or watch the video at **[Timestamp 54:14](https://www.youtube.com/watch?v=lmYzkVOfuqs#t=3254s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
@@ -1693,9 +1399,6 @@ You can deep dive into this topic on **[Slide 21.16](https://ocw.mit.edu/courses
 
 ### [Fourier Law of Thermal Conduction](https://www.youtube.com/watch?v=lmYzkVOfuqs#t=4009s)
 You can deep dive into this topic on **[Slide 21.17](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec21.pdf#page=17&view=fitV)** or watch the video at **[Timestamp 66:49](https://www.youtube.com/watch?v=lmYzkVOfuqs#t=4009s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=lmYzkVOfuqs#t=4374s)
-You can deep dive into this topic on **[Slide 21.18](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec21.pdf#page=18&view=fitV)** or watch the video at **[Timestamp 72:54](https://www.youtube.com/watch?v=lmYzkVOfuqs#t=4374s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
 ### [Anisotropic Fourier Conduction in 2D; Special Change of Coordinates](https://www.youtube.com/watch?v=lmYzkVOfuqs#t=4862s)
 You can deep dive into this topic on **[Slide 21.19](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec21.pdf#page=19&view=fitV)** or watch the video at **[Timestamp 81:02](https://www.youtube.com/watch?v=lmYzkVOfuqs#t=4862s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
@@ -1723,9 +1426,6 @@ You can deep dive into this topic on **[Slide 22.06](https://ocw.mit.edu/courses
 
 ### [Diffusive and Convective Fluxes in Terms of Transport Velocities](https://www.youtube.com/watch?v=df0jCMI04WU#t=1854s)
 You can deep dive into this topic on **[Slide 22.07](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec22.pdf#page=07&view=fitV)** or watch the video at **[Timestamp 30:54](https://www.youtube.com/watch?v=df0jCMI04WU#t=1854s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=df0jCMI04WU#t=1855s)
-You can deep dive into this topic on **[Slide 22.08](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec22.pdf#page=08&view=fitV)** or watch the video at **[Timestamp 30:55](https://www.youtube.com/watch?v=df0jCMI04WU#t=1855s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
 ### [Local Source/Sink Densities Account for the Effects of Collisions, and Short and Long Range Forces](https://www.youtube.com/watch?v=df0jCMI04WU#t=2566s)
 You can deep dive into this topic on **[Slide 22.09](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec22.pdf#page=09&view=fitV)** or watch the video at **[Timestamp 42:46](https://www.youtube.com/watch?v=df0jCMI04WU#t=2566s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
@@ -1772,9 +1472,6 @@ You can deep dive into this topic on **[Slide 22.22](https://ocw.mit.edu/courses
 ### [Only a Fraction of $\underline{J}_E$ Is $\underline{q}''$ in a “Heat\&Diffusion” Interaction](https://www.youtube.com/watch?v=df0jCMI04WU#t=4948s)
 You can deep dive into this topic on **[Slide 22.23](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec22.pdf#page=23&view=fitV)** or watch the video at **[Timestamp 82:28](https://www.youtube.com/watch?v=df0jCMI04WU#t=4948s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
-### [](https://www.youtube.com/watch?v=df0jCMI04WU#t=5275s)
-You can deep dive into this topic on **[Slide 22.24](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec22.pdf#page=24&view=fitV)** or watch the video at **[Timestamp 87:55](https://www.youtube.com/watch?v=df0jCMI04WU#t=5275s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
 ### [“Heat\&Diffusion” Mode of Interaction Between Adjacent Elements of a Continuum](https://www.youtube.com/watch?v=df0jCMI04WU#t=5455s)
 You can deep dive into this topic on **[Slide 22.25](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec22.pdf#page=25&view=fitV)** or watch the video at **[Timestamp 90:55](https://www.youtube.com/watch?v=df0jCMI04WU#t=5455s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
@@ -1814,9 +1511,6 @@ You can deep dive into this topic on **[Slide 23.11](https://ocw.mit.edu/courses
 ### [Material Resistance to Flux and Forces: “Intrinsic” Relations for $\sigma$](https://www.youtube.com/watch?v=M7cl1Zi5YYE#t=2194s)
 You can deep dive into this topic on **[Slide 23.12](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec23.pdf#page=12&view=fitV)** or watch the video at **[Timestamp 36:34](https://www.youtube.com/watch?v=M7cl1Zi5YYE#t=2194s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
-### [](https://www.youtube.com/watch?v=M7cl1Zi5YYE#t=2196s)
-You can deep dive into this topic on **[Slide 23.13](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec23.pdf#page=13&view=fitV)** or watch the video at **[Timestamp 36:36](https://www.youtube.com/watch?v=M7cl1Zi5YYE#t=2196s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
 ### [Direct Laws (Neglecting Cross Effects)](https://www.youtube.com/watch?v=M7cl1Zi5YYE#t=2546s)
 You can deep dive into this topic on **[Slide 23.14](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec23.pdf#page=14&view=fitV)** or watch the video at **[Timestamp 42:26](https://www.youtube.com/watch?v=M7cl1Zi5YYE#t=2546s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
@@ -1835,21 +1529,6 @@ You can deep dive into this topic on **[Slide 23.18](https://ocw.mit.edu/courses
 ### [Material Resistance to Flux and Forces: Steepest Entropy Ascent](https://www.youtube.com/watch?v=M7cl1Zi5YYE#t=3733s)
 You can deep dive into this topic on **[Slide 23.19](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec23.pdf#page=19&view=fitV)** or watch the video at **[Timestamp 62:13](https://www.youtube.com/watch?v=M7cl1Zi5YYE#t=3733s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
-### [](https://www.youtube.com/watch?v=M7cl1Zi5YYE#t=4143s)
-You can deep dive into this topic on **[Slide 23.20](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec23.pdf#page=20&view=fitV)** or watch the video at **[Timestamp 69:03](https://www.youtube.com/watch?v=M7cl1Zi5YYE#t=4143s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=M7cl1Zi5YYE#t=4150s)
-You can deep dive into this topic on **[Slide 23.21](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec23.pdf#page=21&view=fitV)** or watch the video at **[Timestamp 69:10](https://www.youtube.com/watch?v=M7cl1Zi5YYE#t=4150s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=M7cl1Zi5YYE#t=4210s)
-You can deep dive into this topic on **[Slide 23.22](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec23.pdf#page=22&view=fitV)** or watch the video at **[Timestamp 70:10](https://www.youtube.com/watch?v=M7cl1Zi5YYE#t=4210s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=M7cl1Zi5YYE#t=4420s)
-You can deep dive into this topic on **[Slide 23.23](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec23.pdf#page=23&view=fitV)** or watch the video at **[Timestamp 73:40](https://www.youtube.com/watch?v=M7cl1Zi5YYE#t=4420s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=M7cl1Zi5YYE#t=4462s)
-You can deep dive into this topic on **[Slide 23.24](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec23.pdf#page=24&view=fitV)** or watch the video at **[Timestamp 74:22](https://www.youtube.com/watch?v=M7cl1Zi5YYE#t=4462s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
 ### [We May Call Fourth Law the Statement of Existence of Metric $\underline{\underline{G}}$](https://www.youtube.com/watch?v=M7cl1Zi5YYE#t=4479s)
 You can deep dive into this topic on **[Slide 23.25](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec23.pdf#page=25&view=fitV)** or watch the video at **[Timestamp 74:39](https://www.youtube.com/watch?v=M7cl1Zi5YYE#t=4479s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
@@ -1862,24 +1541,6 @@ You can deep dive into this topic on **[Slide 23.27](https://ocw.mit.edu/courses
 ### [More on Steepest Entropy Ascent](https://www.youtube.com/watch?v=M7cl1Zi5YYE#t=5007s)
 You can deep dive into this topic on **[Slide 23.28](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec23.pdf#page=28&view=fitV)** or watch the video at **[Timestamp 83:27](https://www.youtube.com/watch?v=M7cl1Zi5YYE#t=5007s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
-### [](https://www.youtube.com/watch?v=M7cl1Zi5YYE#t=5008s)
-You can deep dive into this topic on **[Slide 23.29](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec23.pdf#page=29&view=fitV)** or watch the video at **[Timestamp 83:28](https://www.youtube.com/watch?v=M7cl1Zi5YYE#t=5008s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=M7cl1Zi5YYE#t=5009s)
-You can deep dive into this topic on **[Slide 23.30](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec23.pdf#page=30&view=fitV)** or watch the video at **[Timestamp 83:29](https://www.youtube.com/watch?v=M7cl1Zi5YYE#t=5009s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=M7cl1Zi5YYE#t=5010s)
-You can deep dive into this topic on **[Slide 23.31](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec23.pdf#page=31&view=fitV)** or watch the video at **[Timestamp 83:30](https://www.youtube.com/watch?v=M7cl1Zi5YYE#t=5010s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=M7cl1Zi5YYE#t=5011s)
-You can deep dive into this topic on **[Slide 23.32](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec23.pdf#page=32&view=fitV)** or watch the video at **[Timestamp 83:31](https://www.youtube.com/watch?v=M7cl1Zi5YYE#t=5011s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=M7cl1Zi5YYE#t=5012s)
-You can deep dive into this topic on **[Slide 23.33](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec23.pdf#page=33&view=fitV)** or watch the video at **[Timestamp 83:32](https://www.youtube.com/watch?v=M7cl1Zi5YYE#t=5012s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=M7cl1Zi5YYE#t=5013s)
-You can deep dive into this topic on **[Slide 23.34](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec23.pdf#page=34&view=fitV)** or watch the video at **[Timestamp 83:33](https://www.youtube.com/watch?v=M7cl1Zi5YYE#t=5013s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
 ### [Bejan's “Constructal Law” of Design and Evolution in Nature](https://www.youtube.com/watch?v=M7cl1Zi5YYE#t=5066s)
 You can deep dive into this topic on **[Slide 23.35](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec23.pdf#page=35&view=fitV)** or watch the video at **[Timestamp 84:26](https://www.youtube.com/watch?v=M7cl1Zi5YYE#t=5066s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
@@ -1891,9 +1552,6 @@ You can deep dive into this topic on **[Slide 23.37](https://ocw.mit.edu/courses
 
 ### [Maximal Local EP (SEA) Implies Minimum Global EP at Steady State](https://www.youtube.com/watch?v=M7cl1Zi5YYE#t=5606s)
 You can deep dive into this topic on **[Slide 23.38](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec23.pdf#page=38&view=fitV)** or watch the video at **[Timestamp 93:26](https://www.youtube.com/watch?v=M7cl1Zi5YYE#t=5606s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=M7cl1Zi5YYE#t=5784s)
-You can deep dive into this topic on **[Slide 23.39](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec23.pdf#page=39&view=fitV)** or watch the video at **[Timestamp 96:24](https://www.youtube.com/watch?v=M7cl1Zi5YYE#t=5784s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
 ### [**Lecture 24: Relative Diffusion Fluxes; Thermoelectric Effects**](https://www.youtube.com/watch?v=bRPsUr0T5wc#t=10s)
 You can deep dive into this topic on **[Slide 24.01](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec24.pdf#page=01&view=fitV)** or watch the video at **[Timestamp 0:10](https://www.youtube.com/watch?v=bRPsUr0T5wc#t=10s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
@@ -1919,15 +1577,6 @@ You can deep dive into this topic on **[Slide 24.07](https://ocw.mit.edu/courses
 ### [Thermoelectric Effects in Solid Conductors](https://www.youtube.com/watch?v=bRPsUr0T5wc#t=2180s)
 You can deep dive into this topic on **[Slide 24.08](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec24.pdf#page=08&view=fitV)** or watch the video at **[Timestamp 36:20](https://www.youtube.com/watch?v=bRPsUr0T5wc#t=2180s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
-### [](https://www.youtube.com/watch?v=bRPsUr0T5wc#t=2520s)
-You can deep dive into this topic on **[Slide 24.09](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec24.pdf#page=09&view=fitV)** or watch the video at **[Timestamp 42:00](https://www.youtube.com/watch?v=bRPsUr0T5wc#t=2520s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=bRPsUr0T5wc#t=2652s)
-You can deep dive into this topic on **[Slide 24.10](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec24.pdf#page=10&view=fitV)** or watch the video at **[Timestamp 44:12](https://www.youtube.com/watch?v=bRPsUr0T5wc#t=2652s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=bRPsUr0T5wc#t=2758s)
-You can deep dive into this topic on **[Slide 24.11](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec24.pdf#page=11&view=fitV)** or watch the video at **[Timestamp 45:58](https://www.youtube.com/watch?v=bRPsUr0T5wc#t=2758s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
 ### [Seeebeck Effect and the Thermocouple](https://www.youtube.com/watch?v=bRPsUr0T5wc#t=2967s)
 You can deep dive into this topic on **[Slide 24.12](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec24.pdf#page=12&view=fitV)** or watch the video at **[Timestamp 49:27](https://www.youtube.com/watch?v=bRPsUr0T5wc#t=2967s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
@@ -1939,9 +1588,6 @@ You can deep dive into this topic on **[Slide 24.14](https://ocw.mit.edu/courses
 
 ### [Thermocouple, Thermoelectric Generator, and Peltier Cell](https://www.youtube.com/watch?v=bRPsUr0T5wc#t=4637s)
 You can deep dive into this topic on **[Slide 24.15](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec24.pdf#page=15&view=fitV)** or watch the video at **[Timestamp 77:17](https://www.youtube.com/watch?v=bRPsUr0T5wc#t=4637s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=bRPsUr0T5wc#t=4716s)
-You can deep dive into this topic on **[Slide 24.16](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec24.pdf#page=16&view=fitV)** or watch the video at **[Timestamp 78:36](https://www.youtube.com/watch?v=bRPsUr0T5wc#t=4716s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
 ### [Second-Law Efficiency of the Thermoelectric Generator](https://www.youtube.com/watch?v=bRPsUr0T5wc#t=5129s)
 You can deep dive into this topic on **[Slide 24.17](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec24.pdf#page=17&view=fitV)** or watch the video at **[Timestamp 85:29](https://www.youtube.com/watch?v=bRPsUr0T5wc#t=5129s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
@@ -1979,29 +1625,14 @@ You can deep dive into this topic on **[Slide 25.07](https://ocw.mit.edu/courses
 ### [Thermo-Osmosis of Pure Substances in Porous Media](https://www.youtube.com/watch?v=N8S-wV3Ggyo#t=1366s)
 You can deep dive into this topic on **[Slide 25.08](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec25.pdf#page=08&view=fitV)** or watch the video at **[Timestamp 22:46](https://www.youtube.com/watch?v=N8S-wV3Ggyo#t=1366s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
-### [](https://www.youtube.com/watch?v=N8S-wV3Ggyo#t=1448s)
-You can deep dive into this topic on **[Slide 25.09](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec25.pdf#page=09&view=fitV)** or watch the video at **[Timestamp 24:08](https://www.youtube.com/watch?v=N8S-wV3Ggyo#t=1448s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
 ### [Thermodiffusion Effects](https://www.youtube.com/watch?v=N8S-wV3Ggyo#t=1773s)
 You can deep dive into this topic on **[Slide 25.10](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec25.pdf#page=10&view=fitV)** or watch the video at **[Timestamp 29:33](https://www.youtube.com/watch?v=N8S-wV3Ggyo#t=1773s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
 ### [Interdiffusion of Two Constituents at Uniform $T$ and $p$](https://www.youtube.com/watch?v=N8S-wV3Ggyo#t=1779s)
 You can deep dive into this topic on **[Slide 25.11](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec25.pdf#page=11&view=fitV)** or watch the video at **[Timestamp 29:39](https://www.youtube.com/watch?v=N8S-wV3Ggyo#t=1779s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
-### [](https://www.youtube.com/watch?v=N8S-wV3Ggyo#t=1831s)
-You can deep dive into this topic on **[Slide 25.12](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec25.pdf#page=12&view=fitV)** or watch the video at **[Timestamp 30:31](https://www.youtube.com/watch?v=N8S-wV3Ggyo#t=1831s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
 ### [Thermophoresis: Interdiffusion of Two Constituents at Uniform $p$](https://www.youtube.com/watch?v=N8S-wV3Ggyo#t=2318s)
 You can deep dive into this topic on **[Slide 25.13](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec25.pdf#page=13&view=fitV)** or watch the video at **[Timestamp 38:38](https://www.youtube.com/watch?v=N8S-wV3Ggyo#t=2318s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=N8S-wV3Ggyo#t=2388s)
-You can deep dive into this topic on **[Slide 25.14](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec25.pdf#page=14&view=fitV)** or watch the video at **[Timestamp 39:48](https://www.youtube.com/watch?v=N8S-wV3Ggyo#t=2388s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=N8S-wV3Ggyo#t=2574s)
-You can deep dive into this topic on **[Slide 25.15](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec25.pdf#page=15&view=fitV)** or watch the video at **[Timestamp 42:54](https://www.youtube.com/watch?v=N8S-wV3Ggyo#t=2574s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=N8S-wV3Ggyo#t=2913s)
-You can deep dive into this topic on **[Slide 25.16](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec25.pdf#page=16&view=fitV)** or watch the video at **[Timestamp 48:33](https://www.youtube.com/watch?v=N8S-wV3Ggyo#t=2913s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
 ### [Other Mechanisms for Molecular Transport in a Pore/Capillary](https://www.youtube.com/watch?v=N8S-wV3Ggyo#t=3134s)
 You can deep dive into this topic on **[Slide 25.17](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec25.pdf#page=17&view=fitV)** or watch the video at **[Timestamp 52:14](https://www.youtube.com/watch?v=N8S-wV3Ggyo#t=3134s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
@@ -2027,9 +1658,6 @@ You can deep dive into this topic on **[Slide 25.23](https://ocw.mit.edu/courses
 ### [More on Far-Nonequilibrium Models](https://www.youtube.com/watch?v=N8S-wV3Ggyo#t=4137s)
 You can deep dive into this topic on **[Slide 25.24](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec25.pdf#page=24&view=fitV)** or watch the video at **[Timestamp 68:57](https://www.youtube.com/watch?v=N8S-wV3Ggyo#t=4137s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
-### [](https://www.youtube.com/watch?v=N8S-wV3Ggyo#t=4510s)
-You can deep dive into this topic on **[Slide 25.25](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec25.pdf#page=25&view=fitV)** or watch the video at **[Timestamp 75:10](https://www.youtube.com/watch?v=N8S-wV3Ggyo#t=4510s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
 ### [In 2024 Thermodynamics Turned 200 Years Old! Sadi Carnot](https://www.youtube.com/watch?v=N8S-wV3Ggyo#t=4620s)
 You can deep dive into this topic on **[Slide 25.26](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec25.pdf#page=26&view=fitV)** or watch the video at **[Timestamp 77:00](https://www.youtube.com/watch?v=N8S-wV3Ggyo#t=4620s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
@@ -2038,7 +1666,4 @@ You can deep dive into this topic on **[Slide 25.27](https://ocw.mit.edu/courses
 
 ### [Thank You for Attending (or Viewing) These Lectures! I Dedicate Them in Memory of My Mentors: Mario Silvestri, James C. Keck, George N. Hatsopoulos, Elias P. Gyftopoulos](https://www.youtube.com/watch?v=N8S-wV3Ggyo#t=4743s)
 You can deep dive into this topic on **[Slide 25.28](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec25.pdf#page=28&view=fitV)** or watch the video at **[Timestamp 79:03](https://www.youtube.com/watch?v=N8S-wV3Ggyo#t=4743s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
-
-### [](https://www.youtube.com/watch?v=#t=0s)
-You can deep dive into this topic on **[Slide 27.01]()** or watch the video at **[Timestamp 0:00](https://www.youtube.com/watch?v=#t=0s)** from the MIT-OCW 2.43 Advanced Thermodynamics course.
 
