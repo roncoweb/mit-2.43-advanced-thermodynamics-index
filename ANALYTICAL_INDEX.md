@@ -14,8 +14,11 @@ type: WebPage
 
 # MIT 2.43 Advanced Thermodynamics - Detailed Analytical Index
 
-### ⬅️ Return to Main Page
-* **[Return to the main Lecture Index (README)](README.md)**
+### 📌 Navigation Resources
+* **[Return to the main page - Lecture Index (README)](README.md)**
+* **[Official MIT-OCW Analytical Index](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/resources/mit2_43_s24_index_slides_pdf/) - PDF file with Hyperlinks with the same contents as the present Index repository.
+* **[Official MIT-OCW PDF Sources](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/pages/instructor-insights/)** — Access the primary graduate curriculum documents and official lecture materials.
+* **[Foundational Open-Access Paper on Entropy](https://doi.org/10.3390/e28040371)** — A precise exposition of basic thermodynamic definitions. It defines properties like entropy in general terms that natively include non-equilibrium states and small systems, going far beyond traditional introductory textbooks to perfectly match the theoretical framework of this course.
 
 ---
 
