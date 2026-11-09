@@ -24,7 +24,7 @@ Welcome to the comprehensive, slide-by-slide index for the **MIT OpenCourseWare 
 
 ### 📌 Navigation Resources
 * **[GO TO THE DETAILED ANALYTICAL INDEX](ANALYTICAL_INDEX.md)** — Search for specific thermodynamic concepts, formulas, scientists, and principles.
-* **[Official MIT-OCW Table of Contents](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/resources/mit2_43_s24_toc_slides_pdf/) - PDF file with Hyperlinks with the same contents as the present table of contents repository.
+* **[Official MIT-OCW Table of Contents](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/resources/mit2_43_s24_toc_slides_pdf/)** - PDF file with Hyperlinks with the same contents as the present table of contents repository.
 * **[Official MIT-OCW PDF Sources](https://ocw.mit.edu/courses/2-43-advanced-thermodynamics-spring-2024/pages/instructor-insights/)** — Access the primary graduate curriculum documents and official lecture materials.
 * **[Foundational Open-Access Paper on Entropy](https://doi.org/10.3390/e28040371)** — A precise exposition of basic thermodynamic definitions. It defines properties like entropy in general terms that natively include non-equilibrium states and small systems, going far beyond traditional introductory textbooks to perfectly match the theoretical framework of this course.
 
